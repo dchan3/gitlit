@@ -1,0 +1,615 @@
+7dd6374478aa22fbfdfa660febfccaf0dbcd4304 f03b9e83c7196f6a2ad2320708004dd41ac2815f dchan3 <dchan3@hawaii.edu> 1510687272 -1000	commit: Update gitignore
+f03b9e83c7196f6a2ad2320708004dd41ac2815f b9ff3500adbc7f00b383598a7576bb650dd68334 dchan3 <dchan3@hawaii.edu> 1510687329 -1000	commit: Update review page CSS
+b9ff3500adbc7f00b383598a7576bb650dd68334 af8b52eace0eff4d56aacf29165fd8213424ce9d dchan3 <dchan3@hawaii.edu> 1510687360 -1000	commit: Profile page fixes
+af8b52eace0eff4d56aacf29165fd8213424ce9d e462eda287d82f92e71b0426fa427cc6efc99c50 dchan3 <dchan3@hawaii.edu> 1510687390 -1000	commit: Change quotes in playlist page JS
+e462eda287d82f92e71b0426fa427cc6efc99c50 aa1be93b60e512cfc537a21db8a6f0e8b304f174 dchan3 <dchan3@hawaii.edu> 1510687425 -1000	commit: Update to v1.6
+aa1be93b60e512cfc537a21db8a6f0e8b304f174 38d764cb2b92582632e1c417524b10ebc295dc77 dchan3 <dchan3@hawaii.edu> 1510687532 -1000	commit: Format blog post dates
+38d764cb2b92582632e1c417524b10ebc295dc77 84de824ea55a4d1dba83574957de962abe7f23ef dchan3 <dchan3@hawaii.edu> 1510687897 -1000	commit: Add skip function in pagination and adjust accordingly
+84de824ea55a4d1dba83574957de962abe7f23ef 2c27616084968ebc5eab90d919e307dec769039a dchan3 <dchan3@hawaii.edu> 1510688637 -1000	pull upstream master: Fast-forward
+e6a5c84d1a1a999d9705bbbfc9551991218d4744 e6a5c84d1a1a999d9705bbbfc9551991218d4744 dchan3 <dchan3@hawaii.edu> 1510715826 -1000	rebase -i (finish): returning to refs/heads/master
+e6a5c84d1a1a999d9705bbbfc9551991218d4744 fb1286413a86c489c841aeee4e374ccbb3f79e04 dchan3 <dchan3@hawaii.edu> 1510817656 -1000	pull upstream master: Fast-forward
+fb1286413a86c489c841aeee4e374ccbb3f79e04 c549eaaac5d734e21f996bc6dc00d486827f4ceb dchan3 <dchan3@hawaii.edu> 1510822461 -1000	commit: CSS & news type tweaks
+c549eaaac5d734e21f996bc6dc00d486827f4ceb c0d6eadf4234cce52bb0588841911ee77eb6f1d2 dchan3 <dchan3@hawaii.edu> 1510824011 -1000	pull upstream master: Fast-forward
+c0d6eadf4234cce52bb0588841911ee77eb6f1d2 ef7461cfdfcba64c983dd62ba1d1b0921153c273 dchan3 <dchan3@hawaii.edu> 1510824057 -1000	commit: Fix profile edit page CSS
+ef7461cfdfcba64c983dd62ba1d1b0921153c273 03d670dd74c647349c8972f844b4cbb44ba912f6 dchan3 <dchan3@hawaii.edu> 1510875690 -1000	pull upstream master: Fast-forward
+03d670dd74c647349c8972f844b4cbb44ba912f6 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1510917347 -1000	commit: Fix post author & date CSS
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511050938 -1000	checkout: moving from master to flow-router-test
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511051811 -1000	checkout: moving from flow-router-test to master
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511051818 -1000	delete_branch: flow-router-test [010574e6cc2ae0818aff79ec98c986f69e0945e9]
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511075455 -1000	checkout: moving from master to flow-test
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511078174 -1000	checkout: moving from flow-test to master
+010574e6cc2ae0818aff79ec98c986f69e0945e9 010574e6cc2ae0818aff79ec98c986f69e0945e9 dchan3 <dchan3@hawaii.edu> 1511078181 -1000	delete_branch: flow-test [010574e6cc2ae0818aff79ec98c986f69e0945e9]
+010574e6cc2ae0818aff79ec98c986f69e0945e9 5a94fa6a2eb717fa7cc1f01c252503d05dedf8be dchan3 <dchan3@hawaii.edu> 1511134282 -1000	commit: Remove analytics package and update pagination package
+5a94fa6a2eb717fa7cc1f01c252503d05dedf8be 5a94fa6a2eb717fa7cc1f01c252503d05dedf8be dchan3 <dchan3@hawaii.edu> 1511917387 -1000	checkout: moving from master to react-refactor
+5a94fa6a2eb717fa7cc1f01c252503d05dedf8be 5a94fa6a2eb717fa7cc1f01c252503d05dedf8be dchan3 <dchan3@hawaii.edu> 1511919153 -1000	checkout: moving from react-refactor to master
+5a94fa6a2eb717fa7cc1f01c252503d05dedf8be 5a94fa6a2eb717fa7cc1f01c252503d05dedf8be dchan3 <dchan3@hawaii.edu> 1511919158 -1000	delete_branch: react-refactor [5a94fa6a2eb717fa7cc1f01c252503d05dedf8be]
+5a94fa6a2eb717fa7cc1f01c252503d05dedf8be c58790b98e561aabe4dd0626efb88b9b88bfdee9 dchan3 <dchan3@hawaii.edu> 1512502305 -1000	commit: Fix accounts template pages + landing
+c58790b98e561aabe4dd0626efb88b9b88bfdee9 4b30d7d577e7b6aec6ec15550c7eb966aae39616 dchan3 <dchan3@hawaii.edu> 1512636029 -1000	commit: Landing now playing fix + DJ playlist permissions
+4b30d7d577e7b6aec6ec15550c7eb966aae39616 4219501d95abb9b699440838a242e593060dc58b dchan3 <dchan3@hawaii.edu> 1512636627 -1000	pull upstream master: Fast-forward
+4219501d95abb9b699440838a242e593060dc58b 5f55b1378df66d3d89994c903d55898795df329f dchan3 <dchan3@hawaii.edu> 1512805210 -1000	commit: Correct mistakes in various areas of the site
+5f55b1378df66d3d89994c903d55898795df329f 7393c58ab41185d41c031846f27d8ce5103c12ca dchan3 <dchan3@hawaii.edu> 1512980058 -1000	commit: Fix landing song artist and update packages
+7393c58ab41185d41c031846f27d8ce5103c12ca 7393c58ab41185d41c031846f27d8ce5103c12ca dchan3 <dchan3@hawaii.edu> 1512980767 -1000	checkout: moving from master to util-funcs
+7393c58ab41185d41c031846f27d8ce5103c12ca 7393c58ab41185d41c031846f27d8ce5103c12ca dchan3 <dchan3@hawaii.edu> 1512984878 -1000	checkout: moving from util-funcs to master
+7393c58ab41185d41c031846f27d8ce5103c12ca 7393c58ab41185d41c031846f27d8ce5103c12ca dchan3 <dchan3@hawaii.edu> 1512984908 -1000	checkout: moving from master to func-purge
+7393c58ab41185d41c031846f27d8ce5103c12ca b5e8911bad5d01ba4c011e26a072f4266628d17e dchan3 <dchan3@hawaii.edu> 1513013196 -1000	commit: Delete unecessary functions
+b5e8911bad5d01ba4c011e26a072f4266628d17e 9d99dada844fc32c56c715e0e885dd3375222e1e dchan3 <dchan3@hawaii.edu> 1513021085 -1000	commit: Corrct errors
+9d99dada844fc32c56c715e0e885dd3375222e1e 9d99dada844fc32c56c715e0e885dd3375222e1e dchan3 <dchan3@hawaii.edu> 1513032140 -1000	delete_branch: util-funcs [7393c58ab41185d41c031846f27d8ce5103c12ca]
+9d99dada844fc32c56c715e0e885dd3375222e1e 7393c58ab41185d41c031846f27d8ce5103c12ca dchan3 <dchan3@hawaii.edu> 1513032159 -1000	checkout: moving from func-purge to master
+7393c58ab41185d41c031846f27d8ce5103c12ca 9d99dada844fc32c56c715e0e885dd3375222e1e dchan3 <dchan3@hawaii.edu> 1513032166 -1000	merge func-purge: Fast-forward
+9d99dada844fc32c56c715e0e885dd3375222e1e ea651b773ede419d3c83396da378736c0c92c78e dchan3 <dchan3@hawaii.edu> 1513057392 -1000	commit: Correct permissions errors & more + implement underwriting page
+ea651b773ede419d3c83396da378736c0c92c78e ea651b773ede419d3c83396da378736c0c92c78e dchan3 <dchan3@hawaii.edu> 1513057405 -1000	delete_branch: func-purge [9d99dada844fc32c56c715e0e885dd3375222e1e]
+ea651b773ede419d3c83396da378736c0c92c78e 6d2d880ce8791ffe87dfe41fdc7eba5ba0ae110f dchan3 <dchan3@hawaii.edu> 1513073984 -1000	commit: Fix typos
+6d2d880ce8791ffe87dfe41fdc7eba5ba0ae110f de0c72de2d0c16bd169b102d3f2a9d2fbdc2ac19 dchan3 <dchan3@hawaii.edu> 1513285934 -1000	commit: Add music pages with CSS + other stuff
+de0c72de2d0c16bd169b102d3f2a9d2fbdc2ac19 9d74b6a33a250b573f2e39786a4f12a2e7e2f648 dchan3 <dchan3@hawaii.edu> 1513285981 -1000	commit: Add more mods
+9d74b6a33a250b573f2e39786a4f12a2e7e2f648 6ebc7ae2662e357f91ffd9f3f868ce8d29db0cea dchan3 <dchan3@hawaii.edu> 1513302751 -1000	pull upstream master: Fast-forward
+6ebc7ae2662e357f91ffd9f3f868ce8d29db0cea 4966c4d4778c7ccb5e70d46c2afadcece7227493 dchan3 <dchan3@hawaii.edu> 1513302789 -1000	commit: Fix errors with playlist page
+4966c4d4778c7ccb5e70d46c2afadcece7227493 2b7cddbf7f093be19f2747879f1711ce9bfbba81 dchan3 <dchan3@hawaii.edu> 1513302984 -1000	checkout: moving from master to 2b7cddbf7f093be19f2747879f1711ce9bfbba81
+2b7cddbf7f093be19f2747879f1711ce9bfbba81 acd10cf2861031198b7748de3a28c0b32d1a05ca dchan3 <dchan3@hawaii.edu> 1513303685 -1000	checkout: moving from 2b7cddbf7f093be19f2747879f1711ce9bfbba81 to acd10cf2861031198b7748de3a28c0b32d1a05ca
+acd10cf2861031198b7748de3a28c0b32d1a05ca 4966c4d4778c7ccb5e70d46c2afadcece7227493 dchan3 <dchan3@hawaii.edu> 1513338633 -1000	checkout: moving from acd10cf2861031198b7748de3a28c0b32d1a05ca to master
+4966c4d4778c7ccb5e70d46c2afadcece7227493 ed714c827a5aabb05963e36793afcd3937497dec dchan3 <dchan3@hawaii.edu> 1513471625 -1000	commit: Fix bug related to landing
+ed714c827a5aabb05963e36793afcd3937497dec b5d8b7d5c2a93919747cfe9ea9a9770289ae2964 dchan3 <dchan3@hawaii.edu> 1513648956 -1000	commit: Staff template mods + playlist page & now playing bugs
+b5d8b7d5c2a93919747cfe9ea9a9770289ae2964 d5a16abf6da54fa060409588a5e1a038550cac84 dchan3 <dchan3@hawaii.edu> 1513678236 -1000	pull upstream master: Fast-forward
+d5a16abf6da54fa060409588a5e1a038550cac84 2260a58e492d78513b5637064873fa3b5552dd77 dchan3 <dchan3@hawaii.edu> 1513807290 -1000	commit: Replace sub show string in playlist sidebar
+2260a58e492d78513b5637064873fa3b5552dd77 24f1e04b9f9f04604d5079e13aaca2a3991b2b45 dchan3 <dchan3@hawaii.edu> 1513907908 -1000	commit: Playlist page title change
+24f1e04b9f9f04604d5079e13aaca2a3991b2b45 7313b2efbe631272b8c94075bd5657bfc7193beb dchan3 <dchan3@hawaii.edu> 1513910955 -1000	commit: Playlist page title change again
+7313b2efbe631272b8c94075bd5657bfc7193beb cf4a5350c09fea4b5aa7c6188cf883cf2bd75089 dchan3 <dchan3@hawaii.edu> 1513939237 -1000	pull upstream master: Fast-forward
+cf4a5350c09fea4b5aa7c6188cf883cf2bd75089 68b18992323a2ff3884fcfe9e4f7b8a5b56dc55d dchan3 <dchan3@hawaii.edu> 1513939419 -1000	commit: Implement verification email resend
+68b18992323a2ff3884fcfe9e4f7b8a5b56dc55d d997807cd76eab941910f9a9959bea5b4d48f6a3 dchan3 <dchan3@hawaii.edu> 1513939454 -1000	commit: Re-add okgrow:analytics
+d997807cd76eab941910f9a9959bea5b4d48f6a3 cf4a5350c09fea4b5aa7c6188cf883cf2bd75089 dchan3 <dchan3@hawaii.edu> 1513939633 -1000	checkout: moving from master to upstream/master
+cf4a5350c09fea4b5aa7c6188cf883cf2bd75089 d997807cd76eab941910f9a9959bea5b4d48f6a3 dchan3 <dchan3@hawaii.edu> 1513940057 -1000	checkout: moving from cf4a5350c09fea4b5aa7c6188cf883cf2bd75089 to master
+d997807cd76eab941910f9a9959bea5b4d48f6a3 0cf6aef1e502b2d91e9f74a446cd97fd47e4afa0 dchan3 <dchan3@hawaii.edu> 1513940382 -1000	commit: Restrict resend email access to unverified users
+0cf6aef1e502b2d91e9f74a446cd97fd47e4afa0 101c03941b5f92070351f2207ffa1db6b5110a12 dchan3 <dchan3@hawaii.edu> 1514080954 -1000	commit: Implement workaround for UI resend link
+101c03941b5f92070351f2207ffa1db6b5110a12 ced58b64bf69288d2bf43e2363493a1c693b211d dchan3 <dchan3@hawaii.edu> 1514090225 -1000	commit: Update now playing such that outdated songs are unlisted
+ced58b64bf69288d2bf43e2363493a1c693b211d 8439c46f643d5d242b4da77c40f8e667b98998a4 dchan3 <dchan3@hawaii.edu> 1514105801 -1000	commit: Indentation adjustment
+8439c46f643d5d242b4da77c40f8e667b98998a4 9b62bd091c02ac058a62b2ab15081e1cc52de664 dchan3 <dchan3@hawaii.edu> 1514341816 -1000	commit: Profile page not found fix
+9b62bd091c02ac058a62b2ab15081e1cc52de664 3e29203ad487523359fc5c5efbd2a3c3f2e82085 dchan3 <dchan3@hawaii.edu> 1514343567 -1000	commit: Revert changes to staff page
+3e29203ad487523359fc5c5efbd2a3c3f2e82085 749e2fde19d97dcce506f114e0fb113d6fea712c dchan3 <dchan3@hawaii.edu> 1514343628 -1000	commit: Add not found pages wherever needed
+749e2fde19d97dcce506f114e0fb113d6fea712c de8ff3e2732b6957a62c2ea71ce37e908b89762e dchan3 <dchan3@hawaii.edu> 1514427659 -1000	commit: Staff page CSS + reviews page bug
+de8ff3e2732b6957a62c2ea71ce37e908b89762e ea87a2514cfd53ab6036cd553fac6c2667f17611 dchan3 <dchan3@hawaii.edu> 1514513492 -1000	commit: Rewrite profile edit page to account for bug in quickform template
+ea87a2514cfd53ab6036cd553fac6c2667f17611 2eb2f56784da55aebc906035c905f9c59c935e10 dchan3 <dchan3@hawaii.edu> 1514535898 -1000	commit: Implement changes requested in #54
+2eb2f56784da55aebc906035c905f9c59c935e10 9545fc8a1950ceea55aaf978b33ed6557bc584d7 dchan3 <dchan3@hawaii.edu> 1514540567 -1000	pull upstream master: Fast-forward
+9545fc8a1950ceea55aaf978b33ed6557bc584d7 85568ba1548f6094f21a2e7041007d4c698c2050 dchan3 <dchan3@hawaii.edu> 1514540719 -1000	pull upstream master: Fast-forward
+85568ba1548f6094f21a2e7041007d4c698c2050 d0bd624b8781d559875c50a9cc0b0311c01b78bb dchan3 <dchan3@hawaii.edu> 1514542907 -1000	commit: Fix Now Playing issue
+d0bd624b8781d559875c50a9cc0b0311c01b78bb b13b7d1d437c210b1fb61b4dee632c7f91532d58 dchan3 <dchan3@hawaii.edu> 1514591234 -1000	commit: Fix bug with DJ roles
+b13b7d1d437c210b1fb61b4dee632c7f91532d58 ae59ad6433e373af792b92981ece3de4d1da3e91 dchan3 <dchan3@hawaii.edu> 1514710306 -1000	commit: Changed wrongly worded labels in show schema
+ae59ad6433e373af792b92981ece3de4d1da3e91 49a960065d6bf50a4e99c3ad03f0211621681d83 dchan3 <dchan3@hawaii.edu> 1514720392 -1000	commit: Fix bugs in backend
+49a960065d6bf50a4e99c3ad03f0211621681d83 4b8c645d9a7a8dd4d2fb540c3d1d9dd6e6f62f1f dchan3 <dchan3@hawaii.edu> 1514720515 -1000	commit: Delete unnecessary console.log calls
+4b8c645d9a7a8dd4d2fb540c3d1d9dd6e6f62f1f 4a0c2a9e87cfc6ce2dae4bec99f5ff42e9bbda76 dchan3 <dchan3@hawaii.edu> 1514781798 -1000	commit: Correct bug relating to next-on-air
+4a0c2a9e87cfc6ce2dae4bec99f5ff42e9bbda76 6e7ccdd04246b56bf46bb4ad1eba11071e046313 dchan3 <dchan3@hawaii.edu> 1514788247 -1000	commit: Make time strings prettier programmatically
+6e7ccdd04246b56bf46bb4ad1eba11071e046313 e39d8f2f684d6dccbcb0d0f07d740c26f50058fc dchan3 <dchan3@hawaii.edu> 1514788421 -1000	pull upstream master: Fast-forward
+e39d8f2f684d6dccbcb0d0f07d740c26f50058fc 0a9f25d53918d1de0eefe217eb78bff173d1d4a2 dchan3 <dchan3@hawaii.edu> 1514802724 -1000	commit: Prettify formatted time + delete fixtures
+0a9f25d53918d1de0eefe217eb78bff173d1d4a2 53e8c27dc22713bf871e8c724597c18680845642 dchan3 <dchan3@hawaii.edu> 1514923628 -1000	commit: Fix bugs relating to post type
+53e8c27dc22713bf871e8c724597c18680845642 53e8c27dc22713bf871e8c724597c18680845642 dchan3 <dchan3@hawaii.edu> 1514927633 -1000	checkout: moving from master to sub-show-now-playing
+53e8c27dc22713bf871e8c724597c18680845642 7fe492f45bb3df8a9e4e4574410bc389989e42eb dchan3 <dchan3@hawaii.edu> 1514943576 -1000	commit: Make review page body render HTML
+7fe492f45bb3df8a9e4e4574410bc389989e42eb b56ee1f4b0bc8ffa9c3eab90b92bc970f7927f67 dchan3 <dchan3@hawaii.edu> 1514952909 -1000	commit: Correct admin update forms
+b56ee1f4b0bc8ffa9c3eab90b92bc970f7927f67 90495cf98ae49605eaa958e7b27613da8f45604a dchan3 <dchan3@hawaii.edu> 1514954127 -1000	commit: Account for "><"when parsing post HTML for post preview
+90495cf98ae49605eaa958e7b27613da8f45604a 38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 dchan3 <dchan3@hawaii.edu> 1514954222 -1000	pull upstream master: Fast-forward
+38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 dchan3 <dchan3@hawaii.edu> 1514955881 -1000	checkout: moving from master to seo
+38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 dchan3 <dchan3@hawaii.edu> 1514955895 -1000	checkout: moving from seo to master
+38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 38cb933809c02b5f0cc9eb8d2ce1eeccc33a8c50 dchan3 <dchan3@hawaii.edu> 1514955925 -1000	checkout: moving from master to seo
+995b24822936296f94f00a74af29eb82896c4715 995b24822936296f94f00a74af29eb82896c4715 dchan3 <dchan3@hawaii.edu> 1515659062 -1000	checkout: moving from master to dev
+995b24822936296f94f00a74af29eb82896c4715 995b24822936296f94f00a74af29eb82896c4715 dchan3 <dchan3@hawaii.edu> 1515659129 -1000	checkout: moving from dev to links
+995b24822936296f94f00a74af29eb82896c4715 995b24822936296f94f00a74af29eb82896c4715 dchan3 <dchan3@hawaii.edu> 1515659175 -1000	checkout: moving from links to playlist-sidebar
+995b24822936296f94f00a74af29eb82896c4715 995b24822936296f94f00a74af29eb82896c4715 dchan3 <dchan3@hawaii.edu> 1515662317 -1000	checkout: moving from links to radioblog-profile-links
+3194eef5b32c1647c8041ec542743e316990c22b 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515808345 -1000	discard: [591fb4e9f58fc56514bedb4cd81a0d49eadccf31]
+3194eef5b32c1647c8041ec542743e316990c22b 995b24822936296f94f00a74af29eb82896c4715 dchan3 <dchan3@hawaii.edu> 1515974858 -1000	checkout: moving from dev to master
+995b24822936296f94f00a74af29eb82896c4715 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515974865 -1000	pull upstream master: Fast-forward
+cac21a61722c98485f7f1575e70dcf1a81e87e25 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515974928 -1000	checkout: moving from master to dev
+3194eef5b32c1647c8041ec542743e316990c22b cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515974953 -1000	rebase: checkout upstream/master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515974961 -1000	rebase: aborting
+3194eef5b32c1647c8041ec542743e316990c22b 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515974961 -1000	rebase: updating HEAD
+3194eef5b32c1647c8041ec542743e316990c22b cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515974981 -1000	rebase: checkout master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515974990 -1000	rebase: aborting
+3194eef5b32c1647c8041ec542743e316990c22b 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515974990 -1000	rebase: updating HEAD
+3194eef5b32c1647c8041ec542743e316990c22b cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515975002 -1000	checkout: moving from dev to master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 3194eef5b32c1647c8041ec542743e316990c22b dchan3 <dchan3@hawaii.edu> 1515975002 -1000	rebase: checkout dev
+3194eef5b32c1647c8041ec542743e316990c22b cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515975014 -1000	rebase: aborting
+cac21a61722c98485f7f1575e70dcf1a81e87e25 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515975052 -1000	delete_branch: links [3194eef5b32c1647c8041ec542743e316990c22b]
+cac21a61722c98485f7f1575e70dcf1a81e87e25 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1515975061 -1000	delete_branch: dev origin/dev [3194eef5b32c1647c8041ec542743e316990c22b]
+cac21a61722c98485f7f1575e70dcf1a81e87e25 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1516063627 -1000	checkout: moving from master to dev
+cac21a61722c98485f7f1575e70dcf1a81e87e25 a880c587262546b113d231c56ed5e8a3b930068e dchan3 <dchan3@hawaii.edu> 1516063639 -1000	commit: Frontpage link bugs
+a880c587262546b113d231c56ed5e8a3b930068e ed36d7a82ed1af5af9e15bd7b8306118d040733d dchan3 <dchan3@hawaii.edu> 1516157961 -1000	commit: Fix bug with hidden required fields + links WIP
+ed36d7a82ed1af5af9e15bd7b8306118d040733d 8e062f87c6f2b025c5d8756408ebf101e39fd8f0 dchan3 <dchan3@hawaii.edu> 1516260659 -1000	commit: Refactor to currentShow
+8e062f87c6f2b025c5d8756408ebf101e39fd8f0 a880c587262546b113d231c56ed5e8a3b930068e dchan3 <dchan3@hawaii.edu> 1516260663 -1000	reset: moving to a880c587262546b113d231c56ed5e8a3b930068e
+a880c587262546b113d231c56ed5e8a3b930068e 2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 dchan3 <dchan3@hawaii.edu> 1516260663 -1000	commit: Fix bug with hidden required fields + links WIP
+2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1516260687 -1000	checkout: moving from dev to master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 dchan3 <dchan3@hawaii.edu> 1516260696 -1000	checkout: moving from master to dev
+2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1516260729 -1000	checkout: moving from dev to master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 dchan3 <dchan3@hawaii.edu> 1516261372 -1000	checkout: moving from master to dev
+2e0b6920b7fe2ba7c217e2f7dfb3a6f896ab9fa8 6797b53a21819d14ec7a06b9a1e80456a4ab5b74 dchan3 <dchan3@hawaii.edu> 1516262108 -1000	commit: Fix landing current show bug
+6797b53a21819d14ec7a06b9a1e80456a4ab5b74 b086b71a291ebcde93b0490bfcee2a3d22fd2bae dchan3 <dchan3@hawaii.edu> 1516341495 -1000	commit: More landing current show fixes
+b086b71a291ebcde93b0490bfcee2a3d22fd2bae cac21a61722c98485f7f1575e70dcf1a81e87e25 dchan3 <dchan3@hawaii.edu> 1516416664 -1000	checkout: moving from dev to master
+cac21a61722c98485f7f1575e70dcf1a81e87e25 8b69b5550f5a180c7d1be6fc0f6757d807cf276c dchan3 <dchan3@hawaii.edu> 1516416706 -1000	pull upstream master: Fast-forward
+8b69b5550f5a180c7d1be6fc0f6757d807cf276c b086b71a291ebcde93b0490bfcee2a3d22fd2bae dchan3 <dchan3@hawaii.edu> 1516416787 -1000	checkout: moving from master to dev
+b086b71a291ebcde93b0490bfcee2a3d22fd2bae 8b69b5550f5a180c7d1be6fc0f6757d807cf276c dchan3 <dchan3@hawaii.edu> 1516416805 -1000	rebase: checkout master
+8b69b5550f5a180c7d1be6fc0f6757d807cf276c 621ef42de88c8260def3446ae1a99048a7437ff9 dchan3 <dchan3@hawaii.edu> 1516416805 -1000	rebase: Frontpage link bugs
+621ef42de88c8260def3446ae1a99048a7437ff9 b086b71a291ebcde93b0490bfcee2a3d22fd2bae dchan3 <dchan3@hawaii.edu> 1516416818 -1000	rebase: aborting
+b086b71a291ebcde93b0490bfcee2a3d22fd2bae 8b69b5550f5a180c7d1be6fc0f6757d807cf276c dchan3 <dchan3@hawaii.edu> 1516416924 -1000	checkout: moving from dev to master
+8b69b5550f5a180c7d1be6fc0f6757d807cf276c b086b71a291ebcde93b0490bfcee2a3d22fd2bae dchan3 <dchan3@hawaii.edu> 1516416944 -1000	checkout: moving from master to dev
+b086b71a291ebcde93b0490bfcee2a3d22fd2bae 8b69b5550f5a180c7d1be6fc0f6757d807cf276c dchan3 <dchan3@hawaii.edu> 1516416952 -1000	reset: moving to 8b69b5550f5a180c7d1be6fc0f6757d807cf276c
+8b69b5550f5a180c7d1be6fc0f6757d807cf276c 1d74bcbf31b667040c874126d8aad8bd720bed57 dchan3 <dchan3@hawaii.edu> 1516418051 -1000	commit: Update packages + show schema + landing DJ bug
+1d74bcbf31b667040c874126d8aad8bd720bed57 ccdd7fd49e65442a388e3aecebf76c94670d6d0d dchan3 <dchan3@hawaii.edu> 1516419376 -1000	commit: Correct landing on-air DJ bug
+ccdd7fd49e65442a388e3aecebf76c94670d6d0d 90931f4e878fbd93d648bb5c61ac7fa256679db4 dchan3 <dchan3@hawaii.edu> 1516485134 -1000	commit: Current playlist bug
+90931f4e878fbd93d648bb5c61ac7fa256679db4 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516496140 -1000	commit: Update resend email regex + add username option to signup and login
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764367 -1000	discard: [26e2474434c294fc44fbb35ace3368b017f090b0]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764382 -1000	discard: [44722dc9796c217872f683a0143ee786aa67d961]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764385 -1000	discard: [c1125b8d7f73b1cada3ec39a03e646f2c4e2d435]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764388 -1000	discard: [b44bec9adbef391443962df166a13ec9a6ff7443]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764391 -1000	discard: [210fef192847dcfb891e364490bce01dc7106833]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764393 -1000	discard: [f1be3525749172b3070f4f38bc4f7a8c8d7ebdbf]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764395 -1000	discard: [54b029d1b995e9c509c0e139baecce8b9152123a]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764398 -1000	discard: [5ca562eeed1418ce656a5c94bb175e0b0cdb3217]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764400 -1000	discard: [f01b777cf2e712544755380b662a0578c5a79580]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764402 -1000	discard: [e038e3168f560efc8ffc8cc8d825db5f4bf94160]
+96f6e2d264b5ce92bac3daea08429dcae1154267 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1516764405 -1000	discard: [6859573eeda35b971ca750e065c31765fa92a524]
+96f6e2d264b5ce92bac3daea08429dcae1154267 abbf6ab0d23691371ac09732705572b7dc35db0d dchan3 <dchan3@hawaii.edu> 1517285091 -1000	commit: Edit max year for reviews
+abbf6ab0d23691371ac09732705572b7dc35db0d 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1517285098 -1000	undo: commit: Edit max year for reviews
+96f6e2d264b5ce92bac3daea08429dcae1154267 8b69b5550f5a180c7d1be6fc0f6757d807cf276c dchan3 <dchan3@hawaii.edu> 1517285109 -1000	checkout: moving from dev to master
+8b69b5550f5a180c7d1be6fc0f6757d807cf276c fefe90fe1b502960c9de1b15cc73f8138185368c dchan3 <dchan3@hawaii.edu> 1517285121 -1000	pull upstream master: Fast-forward
+fefe90fe1b502960c9de1b15cc73f8138185368c 96f6e2d264b5ce92bac3daea08429dcae1154267 dchan3 <dchan3@hawaii.edu> 1517285138 -1000	checkout: moving from master to dev
+96f6e2d264b5ce92bac3daea08429dcae1154267 fefe90fe1b502960c9de1b15cc73f8138185368c dchan3 <dchan3@hawaii.edu> 1517285146 -1000	reset: moving to fefe90fe1b502960c9de1b15cc73f8138185368c
+fefe90fe1b502960c9de1b15cc73f8138185368c 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517285177 -1000	commit: Edit max year for reviews
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 fefe90fe1b502960c9de1b15cc73f8138185368c dchan3 <dchan3@hawaii.edu> 1517285189 -1000	checkout: moving from dev to master
+fefe90fe1b502960c9de1b15cc73f8138185368c 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517285243 -1000	checkout: moving from master to dev
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517956994 -1000	checkout: moving from dev to css-tweaks
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517957000 -1000	checkout: moving from css-tweaks to timezone
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 46f4081973a45612fa46b39c0be91f7271b5f759 dchan3 <dchan3@hawaii.edu> 1517957044 -1000	commit: Refactor new Date() to moment().tz()
+46f4081973a45612fa46b39c0be91f7271b5f759 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517957056 -1000	checkout: moving from timezone to css-tweaks
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 8a501d293972bacbbbd5fc5fb111865c8ae37e71 dchan3 <dchan3@hawaii.edu> 1517957076 -1000	commit: CSS tweaks
+8a501d293972bacbbbd5fc5fb111865c8ae37e71 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517957089 -1000	checkout: moving from css-tweaks to dev
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 46f4081973a45612fa46b39c0be91f7271b5f759 dchan3 <dchan3@hawaii.edu> 1517957100 -1000	merge timezone: Fast-forward
+46f4081973a45612fa46b39c0be91f7271b5f759 46f4081973a45612fa46b39c0be91f7271b5f759 dchan3 <dchan3@hawaii.edu> 1517957586 -1000	checkout: moving from dev to util-funcs
+46f4081973a45612fa46b39c0be91f7271b5f759 8a501d293972bacbbbd5fc5fb111865c8ae37e71 dchan3 <dchan3@hawaii.edu> 1517957624 -1000	checkout: moving from util-funcs to css-tweaks
+8a501d293972bacbbbd5fc5fb111865c8ae37e71 b975eb127c54895426e6da952fd5913333912be7 dchan3 <dchan3@hawaii.edu> 1517957653 -1000	commit: CSS tweaks Pt. 2
+b975eb127c54895426e6da952fd5913333912be7 46f4081973a45612fa46b39c0be91f7271b5f759 dchan3 <dchan3@hawaii.edu> 1517957679 -1000	checkout: moving from css-tweaks to util-funcs
+46f4081973a45612fa46b39c0be91f7271b5f759 0a41e8f821164240fe5a4cce6036c4ee56bd13b7 dchan3 <dchan3@hawaii.edu> 1517957748 -1000	commit: Implement util funcs
+0a41e8f821164240fe5a4cce6036c4ee56bd13b7 b975eb127c54895426e6da952fd5913333912be7 dchan3 <dchan3@hawaii.edu> 1517957770 -1000	checkout: moving from util-funcs to css-tweaks
+b975eb127c54895426e6da952fd5913333912be7 5bd901a858fa6ba329b0278e888783efbc964b63 dchan3 <dchan3@hawaii.edu> 1517958039 -1000	commit: CSS tweaks Pt. 3
+5bd901a858fa6ba329b0278e888783efbc964b63 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 dchan3 <dchan3@hawaii.edu> 1517958060 -1000	reset: moving to 2b7c006f179a3dc7ce86d92505bcc8f75cf2c862
+2b7c006f179a3dc7ce86d92505bcc8f75cf2c862 2a22dfb6580c518195d6cfcd02672545903285b4 dchan3 <dchan3@hawaii.edu> 1517958060 -1000	commit: CSS tweaks
+2a22dfb6580c518195d6cfcd02672545903285b4 46f4081973a45612fa46b39c0be91f7271b5f759 dchan3 <dchan3@hawaii.edu> 1517958078 -1000	checkout: moving from css-tweaks to dev
+46f4081973a45612fa46b39c0be91f7271b5f759 cc501c98d24784af637c76d5cda6cfd85536d12f dchan3 <dchan3@hawaii.edu> 1517958083 -1000	merge css-tweaks: Merge made by the 'recursive' strategy.
+cc501c98d24784af637c76d5cda6cfd85536d12f cc501c98d24784af637c76d5cda6cfd85536d12f dchan3 <dchan3@hawaii.edu> 1517958105 -1000	delete_branch: timezone [46f4081973a45612fa46b39c0be91f7271b5f759]
+cc501c98d24784af637c76d5cda6cfd85536d12f cc501c98d24784af637c76d5cda6cfd85536d12f dchan3 <dchan3@hawaii.edu> 1517958181 -1000	delete_branch: css-tweaks [2a22dfb6580c518195d6cfcd02672545903285b4]
+cc501c98d24784af637c76d5cda6cfd85536d12f 1446b560a4b7d979b7e56fa36b5b192d4a7aa061 dchan3 <dchan3@hawaii.edu> 1518398980 -1000	commit (amend): Merge branch 'css-tweaks' into dev
+1446b560a4b7d979b7e56fa36b5b192d4a7aa061 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400236 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 1446b560a4b7d979b7e56fa36b5b192d4a7aa061 dchan3 <dchan3@hawaii.edu> 1518400245 -1000	undo: reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+1446b560a4b7d979b7e56fa36b5b192d4a7aa061 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400256 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 1446b560a4b7d979b7e56fa36b5b192d4a7aa061 dchan3 <dchan3@hawaii.edu> 1518400263 -1000	undo: reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+1446b560a4b7d979b7e56fa36b5b192d4a7aa061 fefe90fe1b502960c9de1b15cc73f8138185368c dchan3 <dchan3@hawaii.edu> 1518400294 -1000	checkout: moving from dev to master
+fefe90fe1b502960c9de1b15cc73f8138185368c 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400301 -1000	pull upstream master: Fast-forward
+5187d077ba43e4be662e06d409ac033f71c1e8fd 1446b560a4b7d979b7e56fa36b5b192d4a7aa061 dchan3 <dchan3@hawaii.edu> 1518400330 -1000	checkout: moving from master to dev
+1446b560a4b7d979b7e56fa36b5b192d4a7aa061 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400337 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 1446b560a4b7d979b7e56fa36b5b192d4a7aa061 dchan3 <dchan3@hawaii.edu> 1518400354 -1000	undo: reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+1446b560a4b7d979b7e56fa36b5b192d4a7aa061 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400365 -1000	checkout: moving from dev to master
+5187d077ba43e4be662e06d409ac033f71c1e8fd 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400380 -1000	delete_branch: dev [1446b560a4b7d979b7e56fa36b5b192d4a7aa061]
+5187d077ba43e4be662e06d409ac033f71c1e8fd 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400426 -1000	checkout: moving from master to dev
+5187d077ba43e4be662e06d409ac033f71c1e8fd 7cfb540a77bf18b949240c20a0f713ddcffce2bb dchan3 <dchan3@hawaii.edu> 1518400441 -1000	merge util-funcs: Merge made by the 'recursive' strategy.
+7cfb540a77bf18b949240c20a0f713ddcffce2bb 7cfb540a77bf18b949240c20a0f713ddcffce2bb dchan3 <dchan3@hawaii.edu> 1518400463 -1000	delete_branch: util-funcs [0a41e8f821164240fe5a4cce6036c4ee56bd13b7]
+7cfb540a77bf18b949240c20a0f713ddcffce2bb 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400557 -1000	checkout: moving from dev to master
+5187d077ba43e4be662e06d409ac033f71c1e8fd 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518400579 -1000	checkout: moving from master to css-refactor
+5187d077ba43e4be662e06d409ac033f71c1e8fd 7cfb540a77bf18b949240c20a0f713ddcffce2bb dchan3 <dchan3@hawaii.edu> 1518408146 -1000	checkout: moving from css-refactor to dev
+7cfb540a77bf18b949240c20a0f713ddcffce2bb 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518408153 -1000	checkout: moving from dev to css-refactor
+5187d077ba43e4be662e06d409ac033f71c1e8fd 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518408161 -1000	checkout: moving from css-refactor to thumbnail
+5187d077ba43e4be662e06d409ac033f71c1e8fd 904eab42a6c364cfd490b67bac51b2245f50a284 dchan3 <dchan3@hawaii.edu> 1518442683 -1000	commit: Implement thumbnail generation
+904eab42a6c364cfd490b67bac51b2245f50a284 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518452173 -1000	checkout: moving from thumbnail to master
+5187d077ba43e4be662e06d409ac033f71c1e8fd 904eab42a6c364cfd490b67bac51b2245f50a284 dchan3 <dchan3@hawaii.edu> 1518452875 -1000	checkout: moving from master to thumbnail
+904eab42a6c364cfd490b67bac51b2245f50a284 bd2c8133ddbbb063bd7b29f9a22cf8cc381da68f dchan3 <dchan3@hawaii.edu> 1518453504 -1000	commit: Thumbnail function refactoring
+bd2c8133ddbbb063bd7b29f9a22cf8cc381da68f 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518455848 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 2f10022cd8ab1034f439967e4ccbc6d55cc23efc dchan3 <dchan3@hawaii.edu> 1518455848 -1000	commit: Implement thumbnail generation
+2f10022cd8ab1034f439967e4ccbc6d55cc23efc 9d5966d7d199b06f190275b93526b3d3046b2675 dchan3 <dchan3@hawaii.edu> 1518598752 -1000	commit: Amend functions to resize images depending on post type
+9d5966d7d199b06f190275b93526b3d3046b2675 f7fb6b897abef034d7e7799d12f21e0910e0a05a dchan3 <dchan3@hawaii.edu> 1518599111 -1000	commit: Edit thumbnail generation function return value
+f7fb6b897abef034d7e7799d12f21e0910e0a05a 2f10022cd8ab1034f439967e4ccbc6d55cc23efc dchan3 <dchan3@hawaii.edu> 1518599114 -1000	reset: moving to 2f10022cd8ab1034f439967e4ccbc6d55cc23efc
+2f10022cd8ab1034f439967e4ccbc6d55cc23efc dc3307de9f99caa4e9605373647c2cc6ef3308d3 dchan3 <dchan3@hawaii.edu> 1518599115 -1000	commit: Amend functions to resize images depending on post type
+dc3307de9f99caa4e9605373647c2cc6ef3308d3 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1518599529 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 964dc3154db457b4cebc21d141e631d242d02904 dchan3 <dchan3@hawaii.edu> 1518599529 -1000	commit: Implement thumbnail generation
+964dc3154db457b4cebc21d141e631d242d02904 964dc3154db457b4cebc21d141e631d242d02904 dchan3 <dchan3@hawaii.edu> 1519367285 -1000	checkout: moving from thumbnail to update-preview
+964dc3154db457b4cebc21d141e631d242d02904 11e52548abd6bf32cca5e91c74ff5658be15b43f dchan3 <dchan3@hawaii.edu> 1519457390 -1000	commit: Rewrite excerpt rendering functions on homepage and radioblog
+11e52548abd6bf32cca5e91c74ff5658be15b43f 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1519457405 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 966340c1a1c82fde0eacff49faca1278aa4d6e0a dchan3 <dchan3@hawaii.edu> 1519457405 -1000	commit: Implement thumbnail generation
+966340c1a1c82fde0eacff49faca1278aa4d6e0a 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1519457414 -1000	undo: commit: Implement thumbnail generation
+5187d077ba43e4be662e06d409ac033f71c1e8fd 966340c1a1c82fde0eacff49faca1278aa4d6e0a dchan3 <dchan3@hawaii.edu> 1519457417 -1000	commit: Implement thumbnail generation
+966340c1a1c82fde0eacff49faca1278aa4d6e0a 964dc3154db457b4cebc21d141e631d242d02904 dchan3 <dchan3@hawaii.edu> 1519457434 -1000	checkout: moving from update-preview to thumbnail
+964dc3154db457b4cebc21d141e631d242d02904 966340c1a1c82fde0eacff49faca1278aa4d6e0a dchan3 <dchan3@hawaii.edu> 1519457434 -1000	rebase: checkout update-preview
+966340c1a1c82fde0eacff49faca1278aa4d6e0a 964dc3154db457b4cebc21d141e631d242d02904 dchan3 <dchan3@hawaii.edu> 1519457449 -1000	checkout: moving from 966340c1a1c82fde0eacff49faca1278aa4d6e0a to thumbnail
+964dc3154db457b4cebc21d141e631d242d02904 966340c1a1c82fde0eacff49faca1278aa4d6e0a dchan3 <dchan3@hawaii.edu> 1519457462 -1000	reset: moving to 966340c1a1c82fde0eacff49faca1278aa4d6e0a
+966340c1a1c82fde0eacff49faca1278aa4d6e0a 15b0d132d2ba00b71d24b9f2694b9f5cc9a1814b dchan3 <dchan3@hawaii.edu> 1519457500 -1000	rebase: Implement thumbnail generation
+15b0d132d2ba00b71d24b9f2694b9f5cc9a1814b 964dc3154db457b4cebc21d141e631d242d02904 dchan3 <dchan3@hawaii.edu> 1519457510 -1000	reset: moving to 964dc3154db457b4cebc21d141e631d242d02904
+964dc3154db457b4cebc21d141e631d242d02904 e91c2232976ef9163b69a5acafc3b44905f4f3fa dchan3 <dchan3@hawaii.edu> 1519457521 -1000	commit (merge): Merge remote-tracking branch 'origin/thumbnail' into thumbnail
+e91c2232976ef9163b69a5acafc3b44905f4f3fa e91c2232976ef9163b69a5acafc3b44905f4f3fa dchan3 <dchan3@hawaii.edu> 1519457558 -1000	delete_branch: update-preview [966340c1a1c82fde0eacff49faca1278aa4d6e0a]
+e91c2232976ef9163b69a5acafc3b44905f4f3fa 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1519457593 -1000	reset: moving to 5187d077ba43e4be662e06d409ac033f71c1e8fd
+5187d077ba43e4be662e06d409ac033f71c1e8fd 59c9b6b66f2497d1b07b65579be01e7af4d1c2f2 dchan3 <dchan3@hawaii.edu> 1519457593 -1000	commit: Implement thumbnail generation
+59c9b6b66f2497d1b07b65579be01e7af4d1c2f2 5187d077ba43e4be662e06d409ac033f71c1e8fd dchan3 <dchan3@hawaii.edu> 1519490133 -1000	checkout: moving from thumbnail to master
+5187d077ba43e4be662e06d409ac033f71c1e8fd 4ceadcf12da7624d2a8135af9b203649f14afc47 dchan3 <dchan3@hawaii.edu> 1519490148 -1000	pull upstream master: Fast-forward
+4ceadcf12da7624d2a8135af9b203649f14afc47 4ceadcf12da7624d2a8135af9b203649f14afc47 dchan3 <dchan3@hawaii.edu> 1520057164 -1000	checkout: moving from master to devel
+4ceadcf12da7624d2a8135af9b203649f14afc47 c3d608062ac2cabc3080b5780cc038ad4d438bab dchan3 <dchan3@hawaii.edu> 1520415119 -1000	commit: Eliminate moment-timezone dependency
+c3d608062ac2cabc3080b5780cc038ad4d438bab 27fd5cc0d173ae926e78bf81e32e36ea763dbd5f dchan3 <dchan3@hawaii.edu> 1520416330 -1000	commit: Make it so that unapproved posts of any type are not viewable
+27fd5cc0d173ae926e78bf81e32e36ea763dbd5f 72d73b976f2e51fc73fa11129e66336ca391fd3e dchan3 <dchan3@hawaii.edu> 1520416945 -1000	commit: Change Now Playing permissions
+72d73b976f2e51fc73fa11129e66336ca391fd3e 4ceadcf12da7624d2a8135af9b203649f14afc47 dchan3 <dchan3@hawaii.edu> 1520416965 -1000	reset: moving to 4ceadcf12da7624d2a8135af9b203649f14afc47
+4ceadcf12da7624d2a8135af9b203649f14afc47 5c407d7da172eaa8b63c022b2c596364bd515726 dchan3 <dchan3@hawaii.edu> 1520416965 -1000	commit: Eliminate moment-timezone dependency
+5c407d7da172eaa8b63c022b2c596364bd515726 684cd1a88bb9b8a3bb20050a38b4f734ac9098b7 dchan3 <dchan3@hawaii.edu> 1520469462 -1000	commit: Fix bug that would prevent shows ending at midnight from displaying
+684cd1a88bb9b8a3bb20050a38b4f734ac9098b7 4ceadcf12da7624d2a8135af9b203649f14afc47 dchan3 <dchan3@hawaii.edu> 1520484064 -1000	checkout: moving from devel to master
+4ceadcf12da7624d2a8135af9b203649f14afc47 bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1520484077 -1000	pull upstream master: Fast-forward
+bf93a75f436b92d2edde1a5143cc39d2873de76e bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1520484127 -1000	delete_branch: devel [684cd1a88bb9b8a3bb20050a38b4f734ac9098b7]
+bf93a75f436b92d2edde1a5143cc39d2873de76e bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1520484152 -1000	delete_branch: thumbnail [59c9b6b66f2497d1b07b65579be01e7af4d1c2f2]
+bf93a75f436b92d2edde1a5143cc39d2873de76e bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1521030323 -1000	checkout: moving from master to devel
+bf93a75f436b92d2edde1a5143cc39d2873de76e cc46af954f81e981f68826adf7561aadeb6253b4 dchan3 <dchan3@hawaii.edu> 1521030340 -1000	commit: Add draft functionality for static pages
+cc46af954f81e981f68826adf7561aadeb6253b4 4df554e8ba92a0a2003ed04a4c1f6a2d68d08466 dchan3 <dchan3@hawaii.edu> 1521353684 -1000	commit: Pages CSS, user collection query adjustmetns
+4df554e8ba92a0a2003ed04a4c1f6a2d68d08466 48055abe0d52d24036b90cc913c7a9e5fcd4d068 dchan3 <dchan3@hawaii.edu> 1521513902 -1000	commit: Change profile Snapchat link templates
+48055abe0d52d24036b90cc913c7a9e5fcd4d068 823d00cd1f725d2dfd1ddc053eec30afefbcb232 dchan3 <dchan3@hawaii.edu> 1521524717 -1000	commit: Refactor thumbnail code to make way for blatant plug of lead dev's stuff
+823d00cd1f725d2dfd1ddc053eec30afefbcb232 43d1cb53f9a29c02b10b686c8b35ea4a7d4dc3af dchan3 <dchan3@hawaii.edu> 1521675599 -1000	commit: Fix profile thumbnail URL bug
+43d1cb53f9a29c02b10b686c8b35ea4a7d4dc3af bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1521675629 -1000	reset: moving to bf93a75f436b92d2edde1a5143cc39d2873de76e
+bf93a75f436b92d2edde1a5143cc39d2873de76e e928c50b55006692610290be02442c1225d2b725 dchan3 <dchan3@hawaii.edu> 1521675629 -1000	commit: Add draft functionality for static pages
+e928c50b55006692610290be02442c1225d2b725 d98861f1ccdc5983e16d7d43acc939bea3522ce1 dchan3 <dchan3@hawaii.edu> 1521774891 -1000	commit: Update dependencies
+d98861f1ccdc5983e16d7d43acc939bea3522ce1 bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1521774897 -1000	reset: moving to bf93a75f436b92d2edde1a5143cc39d2873de76e
+bf93a75f436b92d2edde1a5143cc39d2873de76e ac7a7991d7eb3995a23a00b15e6d5d5e6a61c78b dchan3 <dchan3@hawaii.edu> 1521774897 -1000	commit: Add draft functionality for static pages
+ac7a7991d7eb3995a23a00b15e6d5d5e6a61c78b fbfa60e364b6d167929f580870048d9ab74bc28e dchan3 <dchan3@hawaii.edu> 1521775406 -1000	commit: Last minute changes before merging #65
+fbfa60e364b6d167929f580870048d9ab74bc28e bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1521775411 -1000	reset: moving to bf93a75f436b92d2edde1a5143cc39d2873de76e
+bf93a75f436b92d2edde1a5143cc39d2873de76e 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521775411 -1000	commit: Add draft functionality for static pages
+017b169746f8ab4d455f3551d337a62fbe1630e4 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521932802 -1000	checkout: moving from devel to header-tweaks
+017b169746f8ab4d455f3551d337a62fbe1630e4 c1b6bb031db0ee25ab5882acbf38c4d886fecaa3 dchan3 <dchan3@hawaii.edu> 1521932865 -1000	commit: Tweaks to header pending approval
+c1b6bb031db0ee25ab5882acbf38c4d886fecaa3 8b30c39e121c1f16f34dacd6f81c70a3b5d3cb36 dchan3 <dchan3@hawaii.edu> 1521940486 -1000	commit: Tweaks to header
+8b30c39e121c1f16f34dacd6f81c70a3b5d3cb36 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521940492 -1000	reset: moving to 017b169746f8ab4d455f3551d337a62fbe1630e4
+017b169746f8ab4d455f3551d337a62fbe1630e4 24f5a9547faec47baf2ae0e2474ecc328fd6a120 dchan3 <dchan3@hawaii.edu> 1521940492 -1000	commit: Tweaks to header pending approval
+24f5a9547faec47baf2ae0e2474ecc328fd6a120 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521940706 -1000	checkout: moving from header-tweaks to devel
+017b169746f8ab4d455f3551d337a62fbe1630e4 24f5a9547faec47baf2ae0e2474ecc328fd6a120 dchan3 <dchan3@hawaii.edu> 1521946920 -1000	checkout: moving from devel to header-tweaks
+24f5a9547faec47baf2ae0e2474ecc328fd6a120 f8dba1f841837607ae989e44a819e16c1f55c0d0 dchan3 <dchan3@hawaii.edu> 1521947566 -1000	commit: Stream title at width < 768px tweaks
+f8dba1f841837607ae989e44a819e16c1f55c0d0 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521947583 -1000	reset: moving to 017b169746f8ab4d455f3551d337a62fbe1630e4
+017b169746f8ab4d455f3551d337a62fbe1630e4 d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d dchan3 <dchan3@hawaii.edu> 1521947583 -1000	commit: Tweaks to header pending approval
+d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d 017b169746f8ab4d455f3551d337a62fbe1630e4 dchan3 <dchan3@hawaii.edu> 1521947599 -1000	checkout: moving from header-tweaks to devel
+017b169746f8ab4d455f3551d337a62fbe1630e4 d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d dchan3 <dchan3@hawaii.edu> 1521947608 -1000	Fast forward branch devel to branch header-tweaks
+d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d bf93a75f436b92d2edde1a5143cc39d2873de76e dchan3 <dchan3@hawaii.edu> 1521966586 -1000	checkout: moving from devel to master
+bf93a75f436b92d2edde1a5143cc39d2873de76e 316f90a19b866fd79127ffae7e39fbf22412bd92 dchan3 <dchan3@hawaii.edu> 1521966599 -1000	pull upstream master: Fast-forward
+316f90a19b866fd79127ffae7e39fbf22412bd92 d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d dchan3 <dchan3@hawaii.edu> 1521966611 -1000	checkout: moving from master to devel
+d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d 316f90a19b866fd79127ffae7e39fbf22412bd92 dchan3 <dchan3@hawaii.edu> 1521966632 -1000	rebase: checkout master
+316f90a19b866fd79127ffae7e39fbf22412bd92 13ad3756df9849c62fddc9d77af1af3014ca6fa7 dchan3 <dchan3@hawaii.edu> 1521967239 -1000	rebase: Add draft functionality for static pages
+13ad3756df9849c62fddc9d77af1af3014ca6fa7 00cf0d811368a2759be25393357ac01b7fc48a95 dchan3 <dchan3@hawaii.edu> 1521967239 -1000	rebase: Tweaks to header pending approval
+00cf0d811368a2759be25393357ac01b7fc48a95 00cf0d811368a2759be25393357ac01b7fc48a95 dchan3 <dchan3@hawaii.edu> 1521967239 -1000	rebase finished: returning to refs/heads/devel
+00cf0d811368a2759be25393357ac01b7fc48a95 00cf0d811368a2759be25393357ac01b7fc48a95 dchan3 <dchan3@hawaii.edu> 1521999072 -1000	checkout: moving from devel to opto
+00cf0d811368a2759be25393357ac01b7fc48a95 316f90a19b866fd79127ffae7e39fbf22412bd92 dchan3 <dchan3@hawaii.edu> 1522034224 -1000	checkout: moving from opto to master
+316f90a19b866fd79127ffae7e39fbf22412bd92 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034298 -1000	pull upstream master: Fast-forward
+c448dac197d0c6e0d22c2bb58405388501c6a56a 00cf0d811368a2759be25393357ac01b7fc48a95 dchan3 <dchan3@hawaii.edu> 1522034343 -1000	checkout: moving from master to devel
+00cf0d811368a2759be25393357ac01b7fc48a95 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034348 -1000	rebase: checkout master
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034348 -1000	rebase finished: returning to refs/heads/devel
+c448dac197d0c6e0d22c2bb58405388501c6a56a 00cf0d811368a2759be25393357ac01b7fc48a95 dchan3 <dchan3@hawaii.edu> 1522034366 -1000	checkout: moving from devel to opto
+00cf0d811368a2759be25393357ac01b7fc48a95 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034370 -1000	rebase: checkout devel
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034370 -1000	rebase finished: returning to refs/heads/opto
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522034398 -1000	checkout: moving from opto to devel
+c448dac197d0c6e0d22c2bb58405388501c6a56a 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522034648 -1000	commit: Changes to satisfy HRH ESLint + import collections dynamically Pt. 1
+07040eed20fc3f55720c55b0246411a63e795a35 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522034796 -1000	delete_branch: opto [c448dac197d0c6e0d22c2bb58405388501c6a56a]
+07040eed20fc3f55720c55b0246411a63e795a35 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522034811 -1000	delete_branch: header-tweaks [d74c4ef0d892a7e546fe4ab9d56e0718dba4fa9d]
+07040eed20fc3f55720c55b0246411a63e795a35 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522034857 -1000	delete_branch: css-refactor [5187d077ba43e4be662e06d409ac033f71c1e8fd]
+07040eed20fc3f55720c55b0246411a63e795a35 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522034864 -1000	delete_branch: dev [7cfb540a77bf18b949240c20a0f713ddcffce2bb]
+07040eed20fc3f55720c55b0246411a63e795a35 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522035151 -1000	checkout: moving from devel to master
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522035167 -1000	checkout: moving from master to sass-it-up
+c448dac197d0c6e0d22c2bb58405388501c6a56a 07040eed20fc3f55720c55b0246411a63e795a35 dchan3 <dchan3@hawaii.edu> 1522084858 -1000	checkout: moving from sass-it-up to devel
+07040eed20fc3f55720c55b0246411a63e795a35 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522089072 -1000	checkout: moving from devel to master
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522089094 -1000	delete_branch: devel origin/devel [07040eed20fc3f55720c55b0246411a63e795a35]
+c448dac197d0c6e0d22c2bb58405388501c6a56a a7e8e0cf17ccab18be6d336336ee1b12089df128 dchan3 <dchan3@hawaii.edu> 1522090660 -1000	commit: Thumbnail and collection loading optimizations
+a7e8e0cf17ccab18be6d336336ee1b12089df128 c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522090663 -1000	undo: commit: Thumbnail and collection loading optimizations
+c448dac197d0c6e0d22c2bb58405388501c6a56a c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522090676 -1000	checkout: moving from master to devel
+c448dac197d0c6e0d22c2bb58405388501c6a56a e8fe73931b3a9486aa97898797314f158716828d dchan3 <dchan3@hawaii.edu> 1522090702 -1000	commit: Image and collection load optimizations
+e8fe73931b3a9486aa97898797314f158716828d cc4bbefa1e7e6452a4d09e2a74bb737e10dab5ed dchan3 <dchan3@hawaii.edu> 1522130983 -1000	commit: Update and remove NPM dependencies
+cc4bbefa1e7e6452a4d09e2a74bb737e10dab5ed c448dac197d0c6e0d22c2bb58405388501c6a56a dchan3 <dchan3@hawaii.edu> 1522143873 -1000	checkout: moving from devel to master
+c448dac197d0c6e0d22c2bb58405388501c6a56a e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522143886 -1000	pull upstream master: Fast-forward
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 cc4bbefa1e7e6452a4d09e2a74bb737e10dab5ed dchan3 <dchan3@hawaii.edu> 1522143938 -1000	checkout: moving from master to devel
+cc4bbefa1e7e6452a4d09e2a74bb737e10dab5ed e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522143946 -1000	rebase: checkout upstream/master
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522143946 -1000	rebase finished: returning to refs/heads/devel
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522143968 -1000	checkout: moving from devel to master
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522208405 -1000	checkout: moving from master to devel
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522208416 -1000	checkout: moving from devel to blaze-to-react
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522209086 -1000	checkout: moving from blaze-to-react to master
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522209090 -1000	checkout: moving from master to blaze-to-react
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522209099 -1000	checkout: moving from blaze-to-react to master
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522209718 -1000	checkout: moving from master to blaze-to-react
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 e133f00a0b19ce8e646b68eb25e9164aa48706e3 dchan3 <dchan3@hawaii.edu> 1522286597 -1000	commit: React-ify reviews list
+e133f00a0b19ce8e646b68eb25e9164aa48706e3 e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522286612 -1000	checkout: moving from blaze-to-react to devel
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297296 -1000	commit: Update packages and fix review list CSS
+08573677a8b824b3536736b28ab5b0d5db62df34 e133f00a0b19ce8e646b68eb25e9164aa48706e3 dchan3 <dchan3@hawaii.edu> 1522297321 -1000	checkout: moving from devel to blaze-to-react
+e133f00a0b19ce8e646b68eb25e9164aa48706e3 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297342 -1000	rebase: checkout devel
+08573677a8b824b3536736b28ab5b0d5db62df34 e133f00a0b19ce8e646b68eb25e9164aa48706e3 dchan3 <dchan3@hawaii.edu> 1522297492 -1000	rebase: aborting
+e133f00a0b19ce8e646b68eb25e9164aa48706e3 e133f00a0b19ce8e646b68eb25e9164aa48706e3 dchan3 <dchan3@hawaii.edu> 1522297492 -1000	rebase: updating HEAD
+e133f00a0b19ce8e646b68eb25e9164aa48706e3 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297573 -1000	checkout: moving from blaze-to-react to devel
+08573677a8b824b3536736b28ab5b0d5db62df34 e133f00a0b19ce8e646b68eb25e9164aa48706e3 dchan3 <dchan3@hawaii.edu> 1522297596 -1000	checkout: moving from devel to blaze-to-react
+e133f00a0b19ce8e646b68eb25e9164aa48706e3 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297602 -1000	rebase: checkout devel
+08573677a8b824b3536736b28ab5b0d5db62df34 bc1a304d41186d2c242a796d4a76370926919dc4 dchan3 <dchan3@hawaii.edu> 1522297870 -1000	rebase: React-ify reviews list
+bc1a304d41186d2c242a796d4a76370926919dc4 bc1a304d41186d2c242a796d4a76370926919dc4 dchan3 <dchan3@hawaii.edu> 1522297870 -1000	rebase finished: returning to refs/heads/blaze-to-react
+bc1a304d41186d2c242a796d4a76370926919dc4 8db59b53a4a497c0736554ad32d4659a127191e7 dchan3 <dchan3@hawaii.edu> 1522297963 -1000	commit: Delete unused CSS class
+8db59b53a4a497c0736554ad32d4659a127191e7 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297969 -1000	reset: moving to 08573677a8b824b3536736b28ab5b0d5db62df34
+08573677a8b824b3536736b28ab5b0d5db62df34 2e405bfae3054ae7e6147bb35a68139bb4cd8a19 dchan3 <dchan3@hawaii.edu> 1522297969 -1000	commit: React-ify reviews list
+2e405bfae3054ae7e6147bb35a68139bb4cd8a19 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522297982 -1000	checkout: moving from blaze-to-react to devel
+08573677a8b824b3536736b28ab5b0d5db62df34 2e405bfae3054ae7e6147bb35a68139bb4cd8a19 dchan3 <dchan3@hawaii.edu> 1522298373 -1000	checkout: moving from devel to blaze-to-react
+2e405bfae3054ae7e6147bb35a68139bb4cd8a19 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522298880 -1000	checkout: moving from blaze-to-react to devel
+08573677a8b824b3536736b28ab5b0d5db62df34 99b5558c76dabd93f41f83d70a6d9982f3127172 dchan3 <dchan3@hawaii.edu> 1522299459 -1000	commit: 0.0.2
+99b5558c76dabd93f41f83d70a6d9982f3127172 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522299494 -1000	undo: commit: 0.0.2
+08573677a8b824b3536736b28ab5b0d5db62df34 fea027d9b60158b643c54706df70703010fd8342 dchan3 <dchan3@hawaii.edu> 1522299544 -1000	commit: Revert "0.0.2"
+fea027d9b60158b643c54706df70703010fd8342 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522299548 -1000	undo: commit: Revert "0.0.2"
+08573677a8b824b3536736b28ab5b0d5db62df34 2e405bfae3054ae7e6147bb35a68139bb4cd8a19 dchan3 <dchan3@hawaii.edu> 1522736451 -1000	checkout: moving from devel to blaze-to-react
+2e405bfae3054ae7e6147bb35a68139bb4cd8a19 08573677a8b824b3536736b28ab5b0d5db62df34 dchan3 <dchan3@hawaii.edu> 1522808224 -1000	checkout: moving from blaze-to-react to devel
+08573677a8b824b3536736b28ab5b0d5db62df34 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522809577 -1000	commit: Correct non-HST timezone offset
+b201e2e048f46a06757267f4f68fcf0e08e00083 2e405bfae3054ae7e6147bb35a68139bb4cd8a19 dchan3 <dchan3@hawaii.edu> 1522809663 -1000	checkout: moving from devel to blaze-to-react
+2e405bfae3054ae7e6147bb35a68139bb4cd8a19 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522809690 -1000	rebase: checkout devel
+b201e2e048f46a06757267f4f68fcf0e08e00083 4cd6465a2a7f32e4e1593b8e371f8fc5bef48a4c dchan3 <dchan3@hawaii.edu> 1522809690 -1000	rebase: React-ify reviews list
+4cd6465a2a7f32e4e1593b8e371f8fc5bef48a4c 4cd6465a2a7f32e4e1593b8e371f8fc5bef48a4c dchan3 <dchan3@hawaii.edu> 1522809690 -1000	rebase finished: returning to refs/heads/blaze-to-react
+4cd6465a2a7f32e4e1593b8e371f8fc5bef48a4c 68dacf4a9a40c1f9d0e90b7578185b799cb75297 dchan3 <dchan3@hawaii.edu> 1522809748 -1000	commit: Reactify reviews files
+68dacf4a9a40c1f9d0e90b7578185b799cb75297 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522827063 -1000	checkout: moving from blaze-to-react to devel
+b201e2e048f46a06757267f4f68fcf0e08e00083 68dacf4a9a40c1f9d0e90b7578185b799cb75297 dchan3 <dchan3@hawaii.edu> 1522848819 -1000	checkout: moving from devel to blaze-to-react
+68dacf4a9a40c1f9d0e90b7578185b799cb75297 fe8057c823b94b1ecdcf76c28aa8905b8c83d010 dchan3 <dchan3@hawaii.edu> 1522859396 -1000	commit: Reactify review page and shows components
+fe8057c823b94b1ecdcf76c28aa8905b8c83d010 89d396661e6afda5f6c14e7555012e608b988510 dchan3 <dchan3@hawaii.edu> 1522874596 -1000	commit: More reactification
+89d396661e6afda5f6c14e7555012e608b988510 a8a5d79801b19642a85e166e7b4b7ffeffe2f3c6 dchan3 <dchan3@hawaii.edu> 1522874693 -1000	commit: Typo correction
+a8a5d79801b19642a85e166e7b4b7ffeffe2f3c6 fe8057c823b94b1ecdcf76c28aa8905b8c83d010 dchan3 <dchan3@hawaii.edu> 1522874698 -1000	reset: moving to fe8057c823b94b1ecdcf76c28aa8905b8c83d010
+fe8057c823b94b1ecdcf76c28aa8905b8c83d010 92b8cad70c9fd5003fa0672e198669e2d50a335f dchan3 <dchan3@hawaii.edu> 1522874698 -1000	commit: More reactification
+92b8cad70c9fd5003fa0672e198669e2d50a335f e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 dchan3 <dchan3@hawaii.edu> 1522922130 -1000	checkout: moving from blaze-to-react to master
+e6fb7ca6aed9d4a82f4dbc047683bbc57f7f9927 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1522922146 -1000	pull upstream master: Fast-forward
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522922178 -1000	rebase: checkout devel
+b201e2e048f46a06757267f4f68fcf0e08e00083 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522922178 -1000	rebase finished: returning to refs/heads/master
+b201e2e048f46a06757267f4f68fcf0e08e00083 06f25adc8d9ce5d2b7ffd429954ab463a4dd471d dchan3 <dchan3@hawaii.edu> 1522922210 -1000	pull upstream master: Merge made by the 'recursive' strategy.
+06f25adc8d9ce5d2b7ffd429954ab463a4dd471d 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1522922236 -1000	reset: moving to 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 [f2a74bd9e88649d4135e3778916a9d6fb6e2e0cb]
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 b201e2e048f46a06757267f4f68fcf0e08e00083 dchan3 <dchan3@hawaii.edu> 1522922249 -1000	checkout: moving from master to devel
+b201e2e048f46a06757267f4f68fcf0e08e00083 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1522922255 -1000	rebase: checkout master
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1522922255 -1000	rebase finished: returning to refs/heads/devel
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 92b8cad70c9fd5003fa0672e198669e2d50a335f dchan3 <dchan3@hawaii.edu> 1522958428 -1000	checkout: moving from devel to blaze-to-react
+92b8cad70c9fd5003fa0672e198669e2d50a335f 5ee01c166fe11ae655835c809ec68da39704502c dchan3 <dchan3@hawaii.edu> 1522987839 -1000	commit: Reactify more pages
+5ee01c166fe11ae655835c809ec68da39704502c 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: checkout devel
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 4726c293cd8ae47109054220aa3f935d4d3f59a6 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: React-ify reviews list
+4726c293cd8ae47109054220aa3f935d4d3f59a6 52fc5e90eef84c1d692c14a46c6d2ff188bd96b6 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: Reactify reviews files
+52fc5e90eef84c1d692c14a46c6d2ff188bd96b6 1833aab1074c3eb58dbe254f00cd301bb271deb5 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: Reactify review page and shows components
+1833aab1074c3eb58dbe254f00cd301bb271deb5 d887a8de367ccf518bf28e402b54e3bbdad22d34 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: More reactification
+d887a8de367ccf518bf28e402b54e3bbdad22d34 1d34497137b9abf50a9bc332c77968b4497f29f7 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase: Reactify more pages
+1d34497137b9abf50a9bc332c77968b4497f29f7 1d34497137b9abf50a9bc332c77968b4497f29f7 dchan3 <dchan3@hawaii.edu> 1522987859 -1000	rebase finished: returning to refs/heads/blaze-to-react
+1d34497137b9abf50a9bc332c77968b4497f29f7 2b26deb62dea934fda61bdad191713dcc3c786a7 dchan3 <dchan3@hawaii.edu> 1523094398 -1000	commit: Reactify even more pages and delete files no longer needed
+2b26deb62dea934fda61bdad191713dcc3c786a7 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1523094935 -1000	checkout: moving from blaze-to-react to devel
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 19a62b9a4e713daff6cb4b74f8a9f4aa90b74ea4 dchan3 <dchan3@hawaii.edu> 1523095269 -1000	commit: Display user posts on profile
+19a62b9a4e713daff6cb4b74f8a9f4aa90b74ea4 fba8042d1d0596ae42bed070b9e6e9cec14bd4f0 dchan3 <dchan3@hawaii.edu> 1523095937 -1000	commit: Gather static page template files into one folder
+fba8042d1d0596ae42bed070b9e6e9cec14bd4f0 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1523095950 -1000	reset: moving to 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 6232f5876cea90ea88c78e51776f11a471013af8 dchan3 <dchan3@hawaii.edu> 1523095950 -1000	commit: Display user posts on profile
+6232f5876cea90ea88c78e51776f11a471013af8 330cf451bdc3f9c0a6c39971449f2b9f67510304 dchan3 <dchan3@hawaii.edu> 1523095998 -1000	commit (amend): Display user posts on profile + move static page template files
+330cf451bdc3f9c0a6c39971449f2b9f67510304 2b26deb62dea934fda61bdad191713dcc3c786a7 dchan3 <dchan3@hawaii.edu> 1523096362 -1000	checkout: moving from devel to blaze-to-react
+2b26deb62dea934fda61bdad191713dcc3c786a7 330cf451bdc3f9c0a6c39971449f2b9f67510304 dchan3 <dchan3@hawaii.edu> 1523096386 -1000	rebase: checkout devel
+330cf451bdc3f9c0a6c39971449f2b9f67510304 26d0444f17ea01bbd08519020843e802df27d234 dchan3 <dchan3@hawaii.edu> 1523096386 -1000	rebase: React-ify reviews list
+26d0444f17ea01bbd08519020843e802df27d234 e5bcf4e6ee8d4ccfe00f3a2ff0e45718b7822eb9 dchan3 <dchan3@hawaii.edu> 1523096386 -1000	rebase: Reactify reviews files
+e5bcf4e6ee8d4ccfe00f3a2ff0e45718b7822eb9 3fe76ca6822ba3d1c86616b737e4e56289de4167 dchan3 <dchan3@hawaii.edu> 1523096386 -1000	rebase: Reactify review page and shows components
+3fe76ca6822ba3d1c86616b737e4e56289de4167 430ad98a073dc22f86252ce24787e35ba088045c dchan3 <dchan3@hawaii.edu> 1523096386 -1000	rebase: More reactification
+430ad98a073dc22f86252ce24787e35ba088045c ec545ff4e2c9db84015be7ff99bdf6b846d8940c dchan3 <dchan3@hawaii.edu> 1523096479 -1000	rebase: Reactify more pages
+ec545ff4e2c9db84015be7ff99bdf6b846d8940c fc57a0a2fb5947bd89f9a157ba249eed02d8014a dchan3 <dchan3@hawaii.edu> 1523096563 -1000	rebase: Reactify even more pages and delete files no longer needed
+fc57a0a2fb5947bd89f9a157ba249eed02d8014a fc57a0a2fb5947bd89f9a157ba249eed02d8014a dchan3 <dchan3@hawaii.edu> 1523096563 -1000	rebase finished: returning to refs/heads/blaze-to-react
+fc57a0a2fb5947bd89f9a157ba249eed02d8014a 2a7f113df597b50a70ac1006de341da12525031d dchan3 <dchan3@hawaii.edu> 1523169582 -1000	commit: Reactify profile editor
+2a7f113df597b50a70ac1006de341da12525031d 6ec89f05e6c9da34d982c4f30767b565c6bbcb8b dchan3 <dchan3@hawaii.edu> 1523435945 -1000	commit: More reactification
+6ec89f05e6c9da34d982c4f30767b565c6bbcb8b 330cf451bdc3f9c0a6c39971449f2b9f67510304 dchan3 <dchan3@hawaii.edu> 1523435999 -1000	checkout: moving from blaze-to-react to devel
+330cf451bdc3f9c0a6c39971449f2b9f67510304 e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e dchan3 <dchan3@hawaii.edu> 1523438046 -1000	commit: Update moderator permissions + parties post type
+e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e dchan3 <dchan3@hawaii.edu> 1523438244 -1000	checkout: moving from devel to devel
+e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e 6ec89f05e6c9da34d982c4f30767b565c6bbcb8b dchan3 <dchan3@hawaii.edu> 1523438259 -1000	checkout: moving from devel to blaze-to-react
+6ec89f05e6c9da34d982c4f30767b565c6bbcb8b e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: checkout devel
+e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e 6d63757dfcf43028ea7fc15d07219172d3566927 dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: React-ify reviews list
+6d63757dfcf43028ea7fc15d07219172d3566927 158a9614fbd7c0e6dd5c0cfd2232c2a03d90c4e8 dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: Reactify reviews files
+158a9614fbd7c0e6dd5c0cfd2232c2a03d90c4e8 669657fcfe4c9c456c3f906fe992eea10a80146d dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: Reactify review page and shows components
+669657fcfe4c9c456c3f906fe992eea10a80146d 0fda1927472aba1970e3e7c14a0fcc75495c3d47 dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: More reactification
+0fda1927472aba1970e3e7c14a0fcc75495c3d47 f3121bec35e3f95f190548dfb6d48d433bcaa3af dchan3 <dchan3@hawaii.edu> 1523438273 -1000	rebase: Reactify more pages
+f3121bec35e3f95f190548dfb6d48d433bcaa3af 15d316fb06bd78cc2896d9dd18941f98d49a9e8d dchan3 <dchan3@hawaii.edu> 1523438320 -1000	rebase: Reactify even more pages and delete files no longer needed
+15d316fb06bd78cc2896d9dd18941f98d49a9e8d db97f6cca4b26076403e27cbd10cc06d212ddb9a dchan3 <dchan3@hawaii.edu> 1523438320 -1000	rebase: Reactify profile editor
+db97f6cca4b26076403e27cbd10cc06d212ddb9a 65f42254feff36554250a12f5c457e6d2cad7ba6 dchan3 <dchan3@hawaii.edu> 1523438320 -1000	rebase: More reactification
+65f42254feff36554250a12f5c457e6d2cad7ba6 65f42254feff36554250a12f5c457e6d2cad7ba6 dchan3 <dchan3@hawaii.edu> 1523438320 -1000	rebase finished: returning to refs/heads/blaze-to-react
+65f42254feff36554250a12f5c457e6d2cad7ba6 e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e dchan3 <dchan3@hawaii.edu> 1523438439 -1000	checkout: moving from blaze-to-react to devel
+e2d4fee91c58b89d5aa7e65da2a54ed911fb9a6e 58fe319271fa5a1246e666812352e82ba379b2be dchan3 <dchan3@hawaii.edu> 1523438472 -1000	commit: p to div in party description
+58fe319271fa5a1246e666812352e82ba379b2be 330cf451bdc3f9c0a6c39971449f2b9f67510304 dchan3 <dchan3@hawaii.edu> 1523438480 -1000	reset: moving to 330cf451bdc3f9c0a6c39971449f2b9f67510304
+330cf451bdc3f9c0a6c39971449f2b9f67510304 3423447d8e0eebdd8705452c8b52afae295ac88f dchan3 <dchan3@hawaii.edu> 1523438480 -1000	commit: Update moderator permissions + parties post type
+3423447d8e0eebdd8705452c8b52afae295ac88f 65f42254feff36554250a12f5c457e6d2cad7ba6 dchan3 <dchan3@hawaii.edu> 1523438524 -1000	checkout: moving from devel to blaze-to-react
+65f42254feff36554250a12f5c457e6d2cad7ba6 9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 dchan3 <dchan3@hawaii.edu> 1523482053 -1000	checkout: moving from blaze-to-react to master
+9b8fbcfb68a347fa7f66b0de49a87ec77f75cc46 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523482073 -1000	pull upstream master: Fast-forward
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed 3423447d8e0eebdd8705452c8b52afae295ac88f dchan3 <dchan3@hawaii.edu> 1523482893 -1000	checkout: moving from master to devel
+3423447d8e0eebdd8705452c8b52afae295ac88f 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523482900 -1000	rebase: checkout master
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523482900 -1000	rebase finished: returning to refs/heads/devel
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed 65f42254feff36554250a12f5c457e6d2cad7ba6 dchan3 <dchan3@hawaii.edu> 1523482936 -1000	checkout: moving from devel to blaze-to-react
+65f42254feff36554250a12f5c457e6d2cad7ba6 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523482946 -1000	rebase: checkout devel
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed b8d2b383bf6bbf23a48113f56292c27340796546 dchan3 <dchan3@hawaii.edu> 1523483083 -1000	rebase: React-ify reviews list
+b8d2b383bf6bbf23a48113f56292c27340796546 533fef173c59c561ee803837c130e306771ee02a dchan3 <dchan3@hawaii.edu> 1523483083 -1000	rebase: Reactify reviews files
+533fef173c59c561ee803837c130e306771ee02a 6e546d7a6a15f9a5b0fe7d6fec6ea60957bd3bf1 dchan3 <dchan3@hawaii.edu> 1523483083 -1000	rebase: Reactify review page and shows components
+6e546d7a6a15f9a5b0fe7d6fec6ea60957bd3bf1 20449a462d9633cd2b2dc7a9bf6e2a5d85c0718b dchan3 <dchan3@hawaii.edu> 1523483083 -1000	rebase: More reactification
+20449a462d9633cd2b2dc7a9bf6e2a5d85c0718b 1c4083c821bf318f5d14df101963daacfb4826e3 dchan3 <dchan3@hawaii.edu> 1523483083 -1000	rebase: Reactify more pages
+1c4083c821bf318f5d14df101963daacfb4826e3 718e94e4e2c60f56ddeda7bd56804c62af0458ec dchan3 <dchan3@hawaii.edu> 1523483115 -1000	rebase: Reactify even more pages and delete files no longer needed
+718e94e4e2c60f56ddeda7bd56804c62af0458ec cd2514d8edaa76ba7b8b01ece5d1d365a880aa59 dchan3 <dchan3@hawaii.edu> 1523483115 -1000	rebase: Reactify profile editor
+cd2514d8edaa76ba7b8b01ece5d1d365a880aa59 d8dd906daa112b72d28631ec96ea4f251f2b0ea0 dchan3 <dchan3@hawaii.edu> 1523483115 -1000	rebase: More reactification
+d8dd906daa112b72d28631ec96ea4f251f2b0ea0 d8dd906daa112b72d28631ec96ea4f251f2b0ea0 dchan3 <dchan3@hawaii.edu> 1523483115 -1000	rebase finished: returning to refs/heads/blaze-to-react
+d8dd906daa112b72d28631ec96ea4f251f2b0ea0 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523868833 -1000	checkout: moving from blaze-to-react to devel
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed d8dd906daa112b72d28631ec96ea4f251f2b0ea0 dchan3 <dchan3@hawaii.edu> 1523947455 -1000	checkout: moving from devel to blaze-to-react
+d8dd906daa112b72d28631ec96ea4f251f2b0ea0 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1523947673 -1000	checkout: moving from blaze-to-react to devel
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed d8dd906daa112b72d28631ec96ea4f251f2b0ea0 dchan3 <dchan3@hawaii.edu> 1523947677 -1000	checkout: moving from devel to blaze-to-react
+d8dd906daa112b72d28631ec96ea4f251f2b0ea0 cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 dchan3 <dchan3@hawaii.edu> 1523947908 -1000	commit: Update to 1.6.1.1
+cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1524007326 -1000	checkout: moving from blaze-to-react to devel
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed abb335b8a7a7a931cbe437707b0e9a2b557ff860 dchan3 <dchan3@hawaii.edu> 1524011049 -1000	commit: Correct radioblog and homepage synopsis text
+abb335b8a7a7a931cbe437707b0e9a2b557ff860 a546b91a0902b83686df38a6edabbd8731d84641 dchan3 <dchan3@hawaii.edu> 1524116127 -1000	commit: Require synopses in posts and update deprecated dependency
+a546b91a0902b83686df38a6edabbd8731d84641 b953f027787f796adbc51c25235f7b84018219df dchan3 <dchan3@hawaii.edu> 1524117041 -1000	commit: Revise synopsis render functions
+b953f027787f796adbc51c25235f7b84018219df b953f027787f796adbc51c25235f7b84018219df dchan3 <dchan3@hawaii.edu> 1524117062 -1000	delete_branch: sass-it-up [c448dac197d0c6e0d22c2bb58405388501c6a56a]
+b953f027787f796adbc51c25235f7b84018219df 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1524117078 -1000	reset: moving to 56dd0e12f6235a00b0d6acb66457600e6b5f71ed
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed ec946dc77e55046f4e3ec6d3ed9f1f5556191033 dchan3 <dchan3@hawaii.edu> 1524117079 -1000	commit: Correct radioblog and homepage synopsis text
+ec946dc77e55046f4e3ec6d3ed9f1f5556191033 cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 dchan3 <dchan3@hawaii.edu> 1524166917 -1000	checkout: moving from devel to blaze-to-react
+cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 d8dd906daa112b72d28631ec96ea4f251f2b0ea0 dchan3 <dchan3@hawaii.edu> 1524166995 -1000	checkout: moving from blaze-to-react to blaze-to-react-sub
+d8dd906daa112b72d28631ec96ea4f251f2b0ea0 3c4f56606e314bd5210dbfa75f43891bedad05ba dchan3 <dchan3@hawaii.edu> 1524187426 -1000	commit: Much more Reactification
+3c4f56606e314bd5210dbfa75f43891bedad05ba cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 dchan3 <dchan3@hawaii.edu> 1524187454 -1000	checkout: moving from blaze-to-react-sub to blaze-to-react
+cfe8ecfbf0f5490f461433fff22ace8c09a87bf9 3c4f56606e314bd5210dbfa75f43891bedad05ba dchan3 <dchan3@hawaii.edu> 1524187470 -1000	rebase: checkout blaze-to-react-sub
+3c4f56606e314bd5210dbfa75f43891bedad05ba 3c46a2decba767a20d9fcae161c2da7be088649e dchan3 <dchan3@hawaii.edu> 1524187470 -1000	rebase: Update to 1.6.1.1
+3c46a2decba767a20d9fcae161c2da7be088649e 3c46a2decba767a20d9fcae161c2da7be088649e dchan3 <dchan3@hawaii.edu> 1524187470 -1000	rebase finished: returning to refs/heads/blaze-to-react
+3c46a2decba767a20d9fcae161c2da7be088649e 3c4f56606e314bd5210dbfa75f43891bedad05ba dchan3 <dchan3@hawaii.edu> 1524187503 -1000	checkout: moving from blaze-to-react to blaze-to-react-sub
+3c4f56606e314bd5210dbfa75f43891bedad05ba 3c4f56606e314bd5210dbfa75f43891bedad05ba dchan3 <dchan3@hawaii.edu> 1524187512 -1000	delete_branch: blaze-to-react origin/blaze-to-react [3c46a2decba767a20d9fcae161c2da7be088649e]
+0000000000000000000000000000000000000000 3c4f56606e314bd5210dbfa75f43891bedad05ba dchan3 <dchan3@hawaii.edu> 1524187521 -1000	checkout: moving from blaze-to-react-sub to blaze-to-react
+3c4f56606e314bd5210dbfa75f43891bedad05ba ec946dc77e55046f4e3ec6d3ed9f1f5556191033 dchan3 <dchan3@hawaii.edu> 1524187568 -1000	rebase: checkout devel
+ec946dc77e55046f4e3ec6d3ed9f1f5556191033 4925aa027f55f96aefce575870ba49764cfa443c dchan3 <dchan3@hawaii.edu> 1524187616 -1000	rebase: React-ify reviews list
+4925aa027f55f96aefce575870ba49764cfa443c c4f81834be796cd8c7065a4b733d62ba2d7ca6d8 dchan3 <dchan3@hawaii.edu> 1524187616 -1000	rebase: Reactify reviews files
+c4f81834be796cd8c7065a4b733d62ba2d7ca6d8 8d3e4a279b7e0b13cface9e18da2ae05ec9c582e dchan3 <dchan3@hawaii.edu> 1524187616 -1000	rebase: Reactify review page and shows components
+8d3e4a279b7e0b13cface9e18da2ae05ec9c582e 3348c362dd3e69fad2233861a57044b727fb6677 dchan3 <dchan3@hawaii.edu> 1524187637 -1000	rebase: More reactification
+3348c362dd3e69fad2233861a57044b727fb6677 4dfcfa8d63985e2a52dc7ca3d9755bcb8795be9e dchan3 <dchan3@hawaii.edu> 1524187637 -1000	rebase: Reactify more pages
+4dfcfa8d63985e2a52dc7ca3d9755bcb8795be9e f30dd4b8b2b9c01e87b39b666af1e431279a4d27 dchan3 <dchan3@hawaii.edu> 1524187637 -1000	rebase: Reactify even more pages and delete files no longer needed
+f30dd4b8b2b9c01e87b39b666af1e431279a4d27 89d00ebb954fd35a258f6ce6efcec195e6a492dc dchan3 <dchan3@hawaii.edu> 1524187723 -1000	rebase: Reactify profile editor
+89d00ebb954fd35a258f6ce6efcec195e6a492dc b318f17570313157bfe62fd454d4c7f55f966494 dchan3 <dchan3@hawaii.edu> 1524187736 -1000	rebase: More reactification
+b318f17570313157bfe62fd454d4c7f55f966494 a680f003be2c4dbf6d247fc6ab92eeecf1e4ef48 dchan3 <dchan3@hawaii.edu> 1524187736 -1000	rebase: Much more Reactification
+a680f003be2c4dbf6d247fc6ab92eeecf1e4ef48 a680f003be2c4dbf6d247fc6ab92eeecf1e4ef48 dchan3 <dchan3@hawaii.edu> 1524187736 -1000	rebase finished: returning to refs/heads/blaze-to-react
+a680f003be2c4dbf6d247fc6ab92eeecf1e4ef48 ec946dc77e55046f4e3ec6d3ed9f1f5556191033 dchan3 <dchan3@hawaii.edu> 1525048880 -1000	checkout: moving from blaze-to-react to devel
+ec946dc77e55046f4e3ec6d3ed9f1f5556191033 1bd42aed18834e92891a0a6f4e338435a69bfd24 dchan3 <dchan3@hawaii.edu> 1525051935 -1000	commit: Fix collection importing
+1bd42aed18834e92891a0a6f4e338435a69bfd24 f81de0f117d3f68a09f540f61a044a40dc628bd1 dchan3 <dchan3@hawaii.edu> 1525851765 -1000	commit: Implement notices type + other tweaks
+f81de0f117d3f68a09f540f61a044a40dc628bd1 5b7b02b304b10c13f981be16873d1f7ca6d67049 dchan3 <dchan3@hawaii.edu> 1526790894 -1000	commit: Fix banner colors
+5b7b02b304b10c13f981be16873d1f7ca6d67049 1bd42aed18834e92891a0a6f4e338435a69bfd24 dchan3 <dchan3@hawaii.edu> 1526790901 -1000	reset: moving to 1bd42aed18834e92891a0a6f4e338435a69bfd24
+1bd42aed18834e92891a0a6f4e338435a69bfd24 4869f20b5f29637850d0dbe87e9cce72ef3f68aa dchan3 <dchan3@hawaii.edu> 1526790901 -1000	commit: Implement notices type + other tweaks
+4869f20b5f29637850d0dbe87e9cce72ef3f68aa 4869f20b5f29637850d0dbe87e9cce72ef3f68aa dchan3 <dchan3@hawaii.edu> 1527105109 -1000	checkout: moving from devel to documentation
+4869f20b5f29637850d0dbe87e9cce72ef3f68aa 4869f20b5f29637850d0dbe87e9cce72ef3f68aa dchan3 <dchan3@hawaii.edu> 1527627995 -1000	checkout: moving from documentation to devel
+4869f20b5f29637850d0dbe87e9cce72ef3f68aa 74f428f6c1e78c40582bc311172978f9c0dcf60d dchan3 <dchan3@hawaii.edu> 1527628044 -1000	commit: Update outdated npm deps
+74f428f6c1e78c40582bc311172978f9c0dcf60d b302b5ce4ff147b07abd82f05fae0ef49834abd3 dchan3 <dchan3@hawaii.edu> 1527628228 -1000	commit: Remove package
+b302b5ce4ff147b07abd82f05fae0ef49834abd3 39d6cbf5882b4b8bef54cceff016f7c8abe67dec dchan3 <dchan3@hawaii.edu> 1527628880 -1000	commit: Update deps
+39d6cbf5882b4b8bef54cceff016f7c8abe67dec 4869f20b5f29637850d0dbe87e9cce72ef3f68aa dchan3 <dchan3@hawaii.edu> 1527628886 -1000	reset: moving to 4869f20b5f29637850d0dbe87e9cce72ef3f68aa
+4869f20b5f29637850d0dbe87e9cce72ef3f68aa a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527628886 -1000	commit: Update outdated npm deps Remove package Update deps
+a8001449e5b95a53ca2b7aadea739ba585306fde 4869f20b5f29637850d0dbe87e9cce72ef3f68aa dchan3 <dchan3@hawaii.edu> 1527628923 -1000	checkout: moving from devel to documentation
+4869f20b5f29637850d0dbe87e9cce72ef3f68aa a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527628927 -1000	merge devel: Fast-forward
+a8001449e5b95a53ca2b7aadea739ba585306fde a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527628932 -1000	checkout: moving from documentation to devel
+a8001449e5b95a53ca2b7aadea739ba585306fde a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527630125 -1000	checkout: moving from devel to documentation
+a8001449e5b95a53ca2b7aadea739ba585306fde b430fa3745aca9909092928a90521aa04224806f dchan3 <dchan3@hawaii.edu> 1527638428 -1000	commit: Install linter and adjust code as necessary
+b430fa3745aca9909092928a90521aa04224806f a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527931646 -1000	checkout: moving from documentation to devel
+a8001449e5b95a53ca2b7aadea739ba585306fde 883b9b1c5dc2ad8e95dcd3aaa0009396f44c6c3b dchan3 <dchan3@hawaii.edu> 1527932986 -1000	commit: Reinstall moment--timezone to account for discrepancies
+883b9b1c5dc2ad8e95dcd3aaa0009396f44c6c3b b430fa3745aca9909092928a90521aa04224806f dchan3 <dchan3@hawaii.edu> 1527933575 -1000	checkout: moving from devel to documentation
+b430fa3745aca9909092928a90521aa04224806f 883b9b1c5dc2ad8e95dcd3aaa0009396f44c6c3b dchan3 <dchan3@hawaii.edu> 1527933761 -1000	checkout: moving from documentation to devel
+883b9b1c5dc2ad8e95dcd3aaa0009396f44c6c3b d69bf58fa40dc0c8107b08238ccb57cb620cd481 dchan3 <dchan3@hawaii.edu> 1527933908 -1000	commit: Fix missing toDate
+d69bf58fa40dc0c8107b08238ccb57cb620cd481 a8001449e5b95a53ca2b7aadea739ba585306fde dchan3 <dchan3@hawaii.edu> 1527933912 -1000	reset: moving to a8001449e5b95a53ca2b7aadea739ba585306fde
+a8001449e5b95a53ca2b7aadea739ba585306fde 07f8e4c548b7eff056a6235b165035a9dd980c39 dchan3 <dchan3@hawaii.edu> 1527933913 -1000	commit: Reinstall moment--timezone to account for discrepancies
+07f8e4c548b7eff056a6235b165035a9dd980c39 e879c469741fa92126ed4a1e37d4a8f790fce0c4 dchan3 <dchan3@hawaii.edu> 1528267860 -1000	commit: Correct timezone issue with getLocalTime() per #70
+e879c469741fa92126ed4a1e37d4a8f790fce0c4 437f7814c5b5ba1648c648a057e7b415d4031603 dchan3 <dchan3@hawaii.edu> 1528332737 -1000	commit: Change banner colors and class names
+437f7814c5b5ba1648c648a057e7b415d4031603 437f7814c5b5ba1648c648a057e7b415d4031603 dchan3 <dchan3@hawaii.edu> 1528332759 -1000	checkout: moving from devel to update-1.7
+437f7814c5b5ba1648c648a057e7b415d4031603 42c0bda77ffea06b17e536e7a44985b94a55d0db dchan3 <dchan3@hawaii.edu> 1528333574 -1000	commit: Get local time function
+42c0bda77ffea06b17e536e7a44985b94a55d0db 437f7814c5b5ba1648c648a057e7b415d4031603 dchan3 <dchan3@hawaii.edu> 1528333580 -1000	undo: commit: Get local time function
+437f7814c5b5ba1648c648a057e7b415d4031603 437f7814c5b5ba1648c648a057e7b415d4031603 dchan3 <dchan3@hawaii.edu> 1528333584 -1000	checkout: moving from update-1.7 to devel
+437f7814c5b5ba1648c648a057e7b415d4031603 f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 dchan3 <dchan3@hawaii.edu> 1528333596 -1000	commit: Get local time function
+f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 437f7814c5b5ba1648c648a057e7b415d4031603 dchan3 <dchan3@hawaii.edu> 1528333623 -1000	checkout: moving from devel to update-1.7
+437f7814c5b5ba1648c648a057e7b415d4031603 f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 dchan3 <dchan3@hawaii.edu> 1528333632 -1000	merge devel: Fast-forward
+f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 dchan3 <dchan3@hawaii.edu> 1528555536 -1000	checkout: moving from update-1.7 to devel
+f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 dchan3 <dchan3@hawaii.edu> 1528686055 -1000	checkout: moving from devel to update-1.7
+f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 dchan3 <dchan3@hawaii.edu> 1528686128 -1000	checkout: moving from update-1.7 to devel
+f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8 b306509b318b00bfbce912140f33846231eb2cd5 dchan3 <dchan3@hawaii.edu> 1529711149 -1000	commit: Create alumni static page
+b306509b318b00bfbce912140f33846231eb2cd5 d4cc85b5bfbee7e4eda887c2b6e367366123a9e5 dchan3 <dchan3@hawaii.edu> 1529711191 -1000	commit: Upload personnel app form and fix link
+d4cc85b5bfbee7e4eda887c2b6e367366123a9e5 94c4d2de647be175ddd79b086487f9ed26458322 dchan3 <dchan3@hawaii.edu> 1529711222 -1000	commit: Fix comment display on playlist page
+94c4d2de647be175ddd79b086487f9ed26458322 688e68dd5410f5da58900210c4c8b8a8d6f889aa dchan3 <dchan3@hawaii.edu> 1529711243 -1000	commit: Fix backend ul tag rendering issue
+688e68dd5410f5da58900210c4c8b8a8d6f889aa a1703d3245209252216325f401468c36829e891a dchan3 <dchan3@hawaii.edu> 1529711663 -1000	commit: Update npm deps
+a1703d3245209252216325f401468c36829e891a b430fa3745aca9909092928a90521aa04224806f dchan3 <dchan3@hawaii.edu> 1529711687 -1000	checkout: moving from devel to documentation
+b430fa3745aca9909092928a90521aa04224806f d3a5e45893465a4c57964e128aba9a429ccc1462 dchan3 <dchan3@hawaii.edu> 1529712281 -1000	commit (merge): Merge devel into docs
+d3a5e45893465a4c57964e128aba9a429ccc1462 b140485a748d38abf8d870f1139a7f3d64f060d0 dchan3 <dchan3@hawaii.edu> 1529713378 -1000	commit: Linter changes
+b140485a748d38abf8d870f1139a7f3d64f060d0 a1703d3245209252216325f401468c36829e891a dchan3 <dchan3@hawaii.edu> 1529713384 -1000	checkout: moving from documentation to devel
+a1703d3245209252216325f401468c36829e891a b140485a748d38abf8d870f1139a7f3d64f060d0 dchan3 <dchan3@hawaii.edu> 1529713399 -1000	merge documentation: Fast-forward
+b140485a748d38abf8d870f1139a7f3d64f060d0 c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1529751268 -1000	commit: Make changes requested in #69
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1529814749 -1000	delete_branch: documentation [b140485a748d38abf8d870f1139a7f3d64f060d0]
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1529814763 -1000	checkout: moving from devel to updates
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1530497261 -1000	checkout: moving from updates to devel
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1531428022 -1000	checkout: moving from devel to update-old
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d 61531d8dde23a8838b7c6573770c2bd368ead568 dchan3 <dchan3@hawaii.edu> 1531428058 -1000	commit: Update NPM deps
+61531d8dde23a8838b7c6573770c2bd368ead568 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1532497310 -1000	commit: Fix comment submission, FAQ click issues
+f4facb3372402a3388c1fcb10d7cf6e955946408 c59eec2789e8ce5d7fa732ea551743f19f5f9e5d dchan3 <dchan3@hawaii.edu> 1532497369 -1000	checkout: moving from update-old to devel
+c59eec2789e8ce5d7fa732ea551743f19f5f9e5d f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1532497374 -1000	merge update-old: Fast-forward
+f4facb3372402a3388c1fcb10d7cf6e955946408 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1532497400 -1000	delete_branch: updates [c59eec2789e8ce5d7fa732ea551743f19f5f9e5d]
+f4facb3372402a3388c1fcb10d7cf6e955946408 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533346437 -1000	checkout: moving from devel to temp-chart-workaround
+f4facb3372402a3388c1fcb10d7cf6e955946408 32a7d8e74c23b20148724147f03ad1c5fbcd4cff dchan3 <dchan3@hawaii.edu> 1533346460 -1000	commit: Implement temporary workaround for chart entry
+32a7d8e74c23b20148724147f03ad1c5fbcd4cff f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533476148 -1000	checkout: moving from temp-chart-workaround to devel
+f4facb3372402a3388c1fcb10d7cf6e955946408 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533476253 -1000	checkout: moving from devel to chart-csv
+f4facb3372402a3388c1fcb10d7cf6e955946408 3fe3c00f4ce560b8127f48076b34a3110319f306 dchan3 <dchan3@hawaii.edu> 1533476270 -1000	commit: Implement chart CSV import function
+3fe3c00f4ce560b8127f48076b34a3110319f306 715a841c9926f3c41d282e77dfb5c33515b44287 dchan3 <dchan3@hawaii.edu> 1533610798 -1000	commit: Complete chart CSV import implementation
+715a841c9926f3c41d282e77dfb5c33515b44287 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1533970908 -1000	checkout: moving from chart-csv to master
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533971072 -1000	rebase: checkout devel
+f4facb3372402a3388c1fcb10d7cf6e955946408 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533971072 -1000	rebase finished: returning to refs/heads/master
+f4facb3372402a3388c1fcb10d7cf6e955946408 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1533971160 -1000	checkout: moving from master to upstream/master
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533971245 -1000	checkout: moving from 56dd0e12f6235a00b0d6acb66457600e6b5f71ed to master
+f4facb3372402a3388c1fcb10d7cf6e955946408 f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533971310 -1000	checkout: moving from master to master
+f4facb3372402a3388c1fcb10d7cf6e955946408 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1533971343 -1000	reset: moving to 56dd0e12f6235a00b0d6acb66457600e6b5f71ed [e243a5aac172975dffd3a507a741ec4011fbb64a]
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed f4facb3372402a3388c1fcb10d7cf6e955946408 dchan3 <dchan3@hawaii.edu> 1533971379 -1000	checkout: moving from master to devel
+f4facb3372402a3388c1fcb10d7cf6e955946408 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1533971385 -1000	rebase: checkout master
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed 677e9016bd727f7b287c2de0957764035c1a7f9c dchan3 <dchan3@hawaii.edu> 1533971387 -1000	rebase: Correct radioblog and homepage synopsis text
+677e9016bd727f7b287c2de0957764035c1a7f9c 15e033ac7d1dd60ce706f9fcb895023bdc5b9457 dchan3 <dchan3@hawaii.edu> 1533971387 -1000	rebase: Fix collection importing
+15e033ac7d1dd60ce706f9fcb895023bdc5b9457 7d45111352827af601feee95930effcee3e2d16a dchan3 <dchan3@hawaii.edu> 1533971387 -1000	rebase: Implement notices type + other tweaks
+7d45111352827af601feee95930effcee3e2d16a 04303a493ac8b264d81a25d162b3385b6dce4c3a dchan3 <dchan3@hawaii.edu> 1533971387 -1000	rebase: Update outdated npm deps
+04303a493ac8b264d81a25d162b3385b6dce4c3a 7d0e704f45721690c627d56c9c41b6e0293313c9 dchan3 <dchan3@hawaii.edu> 1533971387 -1000	rebase: Install linter and adjust code as necessary
+7d0e704f45721690c627d56c9c41b6e0293313c9 ceb5226b8d297c1c7ef119ffdb04af653c7d3bfa dchan3 <dchan3@hawaii.edu> 1533971669 -1000	rebase: Reinstall moment--timezone to account for discrepancies
+ceb5226b8d297c1c7ef119ffdb04af653c7d3bfa 4d477821a0b8a92c71884cde12f7f7af29504926 dchan3 <dchan3@hawaii.edu> 1533972368 -1000	rebase: Correct timezone issue with getLocalTime() per #70
+4d477821a0b8a92c71884cde12f7f7af29504926 5114d8751c11bfbedcfa7965e68566ba633ce5c3 dchan3 <dchan3@hawaii.edu> 1533972395 -1000	rebase: Change banner colors and class names
+5114d8751c11bfbedcfa7965e68566ba633ce5c3 9ba36fca04b8ee2b5619a6d1148294f71eaa2b82 dchan3 <dchan3@hawaii.edu> 1533972395 -1000	rebase: Get local time function
+9ba36fca04b8ee2b5619a6d1148294f71eaa2b82 72ac4fb2587205e8d92408a01dfcf517f75b497a dchan3 <dchan3@hawaii.edu> 1533972398 -1000	rebase: Create alumni static page
+72ac4fb2587205e8d92408a01dfcf517f75b497a 25da54f050b8af610cfb957943f85e432173650c dchan3 <dchan3@hawaii.edu> 1533972398 -1000	rebase: Upload personnel app form and fix link
+25da54f050b8af610cfb957943f85e432173650c daa1ddf00cf455d48a34d439bd15f1b879998f85 dchan3 <dchan3@hawaii.edu> 1533972611 -1000	rebase: Fix comment display on playlist page
+daa1ddf00cf455d48a34d439bd15f1b879998f85 85490f5731eead648e84632876e5647ddcee991c dchan3 <dchan3@hawaii.edu> 1533972611 -1000	rebase: Fix backend ul tag rendering issue
+85490f5731eead648e84632876e5647ddcee991c eb82d86524b1da69017b9b1f0160936afc0f7c4e dchan3 <dchan3@hawaii.edu> 1533972611 -1000	rebase: Update npm deps
+eb82d86524b1da69017b9b1f0160936afc0f7c4e 06a2269fb0897510d4eca26941db793b8de5c1d6 dchan3 <dchan3@hawaii.edu> 1533972647 -1000	rebase: Linter changes
+06a2269fb0897510d4eca26941db793b8de5c1d6 ce13c3e2d3d5a3dc03165a07f6f61f58f44e1837 dchan3 <dchan3@hawaii.edu> 1533972647 -1000	rebase: Make changes requested in #69
+ce13c3e2d3d5a3dc03165a07f6f61f58f44e1837 268108adacd1688030208941bcacd8e98949afe4 dchan3 <dchan3@hawaii.edu> 1533972647 -1000	rebase: Update NPM deps
+268108adacd1688030208941bcacd8e98949afe4 cec9874886576025df512e0579cdd209adc84b36 dchan3 <dchan3@hawaii.edu> 1533972647 -1000	rebase: Fix comment submission, FAQ click issues
+cec9874886576025df512e0579cdd209adc84b36 cec9874886576025df512e0579cdd209adc84b36 dchan3 <dchan3@hawaii.edu> 1533972647 -1000	rebase finished: returning to refs/heads/devel
+cec9874886576025df512e0579cdd209adc84b36 715a841c9926f3c41d282e77dfb5c33515b44287 dchan3 <dchan3@hawaii.edu> 1533972889 -1000	checkout: moving from devel to chart-csv
+715a841c9926f3c41d282e77dfb5c33515b44287 cec9874886576025df512e0579cdd209adc84b36 dchan3 <dchan3@hawaii.edu> 1533972908 -1000	rebase: checkout devel
+cec9874886576025df512e0579cdd209adc84b36 78ce469dff0a4aa1ff987c50bbac7f48d0a71e4e dchan3 <dchan3@hawaii.edu> 1533973778 -1000	rebase: Reinstall moment--timezone to account for discrepancies
+78ce469dff0a4aa1ff987c50bbac7f48d0a71e4e 30d08c77002641c41c1aebd9f0b896a1f91e21dd dchan3 <dchan3@hawaii.edu> 1533974090 -1000	rebase: Correct timezone issue with getLocalTime() per #70
+30d08c77002641c41c1aebd9f0b896a1f91e21dd de7951238b797d530ba2f6a9e9e2feb42e0cce2f dchan3 <dchan3@hawaii.edu> 1533974204 -1000	rebase: Fix comment display on playlist page
+de7951238b797d530ba2f6a9e9e2feb42e0cce2f 1056660a5bd5f4986cc683093617d8a396a89fcc dchan3 <dchan3@hawaii.edu> 1533974311 -1000	rebase: Update npm deps
+1056660a5bd5f4986cc683093617d8a396a89fcc 30b67ba14c136665f5edd8beee406c9b8afaf70d dchan3 <dchan3@hawaii.edu> 1533974311 -1000	rebase: Implement chart CSV import function
+30b67ba14c136665f5edd8beee406c9b8afaf70d 44818cef766227560cfd62cdb5ddec2a13728764 dchan3 <dchan3@hawaii.edu> 1533974312 -1000	rebase: Complete chart CSV import implementation
+44818cef766227560cfd62cdb5ddec2a13728764 44818cef766227560cfd62cdb5ddec2a13728764 dchan3 <dchan3@hawaii.edu> 1533974312 -1000	rebase finished: returning to refs/heads/chart-csv
+44818cef766227560cfd62cdb5ddec2a13728764 94a31a55338a48bd53a40defa61cccf7be084b66 dchan3 <dchan3@hawaii.edu> 1533974688 -1000	commit: Rewrite show page if-blocks
+94a31a55338a48bd53a40defa61cccf7be084b66 56dd0e12f6235a00b0d6acb66457600e6b5f71ed dchan3 <dchan3@hawaii.edu> 1533983549 -1000	checkout: moving from chart-csv to master
+56dd0e12f6235a00b0d6acb66457600e6b5f71ed da7500139c659cc2de9c12b996148217f0b39b41 dchan3 <dchan3@hawaii.edu> 1533983584 -1000	pull upstream master: Fast-forward
+da7500139c659cc2de9c12b996148217f0b39b41 94a31a55338a48bd53a40defa61cccf7be084b66 dchan3 <dchan3@hawaii.edu> 1533983639 -1000	checkout: moving from master to chart-csv
+94a31a55338a48bd53a40defa61cccf7be084b66 da7500139c659cc2de9c12b996148217f0b39b41 dchan3 <dchan3@hawaii.edu> 1533983645 -1000	rebase: checkout master
+da7500139c659cc2de9c12b996148217f0b39b41 c8352258e5345c92b70f2d25453ab85a3feda027 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Reinstall moment--timezone to account for discrepancies
+c8352258e5345c92b70f2d25453ab85a3feda027 87c386f50d6ddbff044185cc84271c693788c5d9 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Correct timezone issue with getLocalTime() per #70
+87c386f50d6ddbff044185cc84271c693788c5d9 1e5cb72178878943f9c0b346a5ad9f5df448ff89 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Fix comment display on playlist page
+1e5cb72178878943f9c0b346a5ad9f5df448ff89 339e7541e2d802fe288548e8035e6d247fe6e601 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Update npm deps
+339e7541e2d802fe288548e8035e6d247fe6e601 ea3e7c763aa3ec771eed48dac07688e4fbd80cc9 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Implement chart CSV import function
+ea3e7c763aa3ec771eed48dac07688e4fbd80cc9 2b37bc98787afbd4ac14ec9b242b8911cf237454 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Complete chart CSV import implementation
+2b37bc98787afbd4ac14ec9b242b8911cf237454 966e6b0bde0f464618a88699870e1b70b10264a8 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase: Rewrite show page if-blocks
+966e6b0bde0f464618a88699870e1b70b10264a8 966e6b0bde0f464618a88699870e1b70b10264a8 dchan3 <dchan3@hawaii.edu> 1533983646 -1000	rebase finished: returning to refs/heads/chart-csv
+966e6b0bde0f464618a88699870e1b70b10264a8 cec9874886576025df512e0579cdd209adc84b36 dchan3 <dchan3@hawaii.edu> 1533983700 -1000	checkout: moving from chart-csv to devel
+cec9874886576025df512e0579cdd209adc84b36 2eea513ea097e75e83c8e39ac675792e402d4a95 dchan3 <dchan3@hawaii.edu> 1533983877 -1000	commit: Critical update to NPM deps
+2eea513ea097e75e83c8e39ac675792e402d4a95 cec9874886576025df512e0579cdd209adc84b36 dchan3 <dchan3@hawaii.edu> 1533983910 -1000	undo: commit: Critical update to NPM deps
+cec9874886576025df512e0579cdd209adc84b36 da7500139c659cc2de9c12b996148217f0b39b41 dchan3 <dchan3@hawaii.edu> 1533983933 -1000	rebase: checkout master
+da7500139c659cc2de9c12b996148217f0b39b41 da7500139c659cc2de9c12b996148217f0b39b41 dchan3 <dchan3@hawaii.edu> 1533983934 -1000	rebase finished: returning to refs/heads/devel
+da7500139c659cc2de9c12b996148217f0b39b41 8105fa42ada7a38ec131a64bb088545d73a33916 dchan3 <dchan3@hawaii.edu> 1533983971 -1000	commit: Critical update to NPM deps
+8105fa42ada7a38ec131a64bb088545d73a33916 966e6b0bde0f464618a88699870e1b70b10264a8 dchan3 <dchan3@hawaii.edu> 1533983999 -1000	checkout: moving from devel to chart-csv
+966e6b0bde0f464618a88699870e1b70b10264a8 8105fa42ada7a38ec131a64bb088545d73a33916 dchan3 <dchan3@hawaii.edu> 1533984006 -1000	rebase: checkout devel
+8105fa42ada7a38ec131a64bb088545d73a33916 951ea70643d6afa251cd537f217e007cf70fa671 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Reinstall moment--timezone to account for discrepancies
+951ea70643d6afa251cd537f217e007cf70fa671 890af09bb065486b07a2c7559db783297febf2c3 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Correct timezone issue with getLocalTime() per #70
+890af09bb065486b07a2c7559db783297febf2c3 0f33e315e0393ce40d7584f730fcc74867b4f772 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Fix comment display on playlist page
+0f33e315e0393ce40d7584f730fcc74867b4f772 51a569ef7285dbd08a53079f107458fda461e190 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Update npm deps
+51a569ef7285dbd08a53079f107458fda461e190 9b7ce4ca72d58ab61239dcf07b6c3f91155f7e3b dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Implement chart CSV import function
+9b7ce4ca72d58ab61239dcf07b6c3f91155f7e3b d9ef08a6edbb84fa92df99d7198eecbde0278bba dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Complete chart CSV import implementation
+d9ef08a6edbb84fa92df99d7198eecbde0278bba ba1649409875dbe510ff58582cecffdbffe10217 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase: Rewrite show page if-blocks
+ba1649409875dbe510ff58582cecffdbffe10217 ba1649409875dbe510ff58582cecffdbffe10217 dchan3 <dchan3@hawaii.edu> 1533984007 -1000	rebase finished: returning to refs/heads/chart-csv
+ba1649409875dbe510ff58582cecffdbffe10217 a5161b136e4b75a8407a8106725ed651b34a3aa6 dchan3 <dchan3@hawaii.edu> 1533999651 -1000	commit: Fix chart upload and create form button events
+a5161b136e4b75a8407a8106725ed651b34a3aa6 83a7a80c1f8c9e40178071641791b66a075faf19 dchan3 <dchan3@hawaii.edu> 1534035251 -1000	commit: Make chart CSV upload more reactive
+83a7a80c1f8c9e40178071641791b66a075faf19 2a9e5e97200ee51e845a7ad4a6b567fbc7b1b92e dchan3 <dchan3@hawaii.edu> 1534035893 -1000	commit: Fix chart create CSV upload button
+2a9e5e97200ee51e845a7ad4a6b567fbc7b1b92e a5161b136e4b75a8407a8106725ed651b34a3aa6 dchan3 <dchan3@hawaii.edu> 1534035899 -1000	reset: moving to a5161b136e4b75a8407a8106725ed651b34a3aa6
+a5161b136e4b75a8407a8106725ed651b34a3aa6 aa346bf4701cac2db77d606cdfddcbf7edb99e03 dchan3 <dchan3@hawaii.edu> 1534035901 -1000	commit: Make chart CSV upload more reactive
+aa346bf4701cac2db77d606cdfddcbf7edb99e03 6e4336a24886361c135cd6c56cf66bd46b06332e dchan3 <dchan3@hawaii.edu> 1534271163 -1000	commit: Fix chart update bug + more
+6e4336a24886361c135cd6c56cf66bd46b06332e d48caa219a44161fed29652dfdc02e9ee64f7dfa dchan3 <dchan3@hawaii.edu> 1534450866 -1000	commit: Fix chart collection & schema
+d48caa219a44161fed29652dfdc02e9ee64f7dfa aa346bf4701cac2db77d606cdfddcbf7edb99e03 dchan3 <dchan3@hawaii.edu> 1534450873 -1000	reset: moving to aa346bf4701cac2db77d606cdfddcbf7edb99e03
+aa346bf4701cac2db77d606cdfddcbf7edb99e03 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1534450873 -1000	commit: Fix chart update bug + more
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536258847 -1000	checkout: moving from chart-csv to rss
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259280 -1000	checkout: moving from rss to chart-csv
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259288 -1000	delete_branch: rss [8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8]
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259319 -1000	checkout: moving from chart-csv to rss
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 ae723cd1f09a87e138f51fec25bbf6ab3db2170b dchan3 <dchan3@hawaii.edu> 1536259379 -1000	commit: Setup RSS feed
+ae723cd1f09a87e138f51fec25bbf6ab3db2170b 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259390 -1000	checkout: moving from rss to devel
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259442 -1000	checkout: moving from devel to spinitron-upgrade
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 08fb21a35351f2e7ef92e3af923e3fddb310be70 dchan3 <dchan3@hawaii.edu> 1536259531 -1000	commit: Refactor for Spinitron upgrade
+08fb21a35351f2e7ef92e3af923e3fddb310be70 8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 dchan3 <dchan3@hawaii.edu> 1536259552 -1000	checkout: moving from spinitron-upgrade to devel
+8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8 63aa78a62d8cf9b455486c368511d3f7616ae936 dchan3 <dchan3@hawaii.edu> 1536259588 -1000	commit: Fix daytime landing
+63aa78a62d8cf9b455486c368511d3f7616ae936 59eb80756f8ad97e41a9b14be669a76a44435bda dchan3 <dchan3@hawaii.edu> 1536259609 -1000	merge rss spinitron-upgrade: Merge made by the 'octopus' strategy.
+59eb80756f8ad97e41a9b14be669a76a44435bda 59eb80756f8ad97e41a9b14be669a76a44435bda dchan3 <dchan3@hawaii.edu> 1536259648 -1000	delete_branch: chart-csv origin/chart-csv [8694ce1ab7c4ce58f37d2a2a2f0632ec1d9947d8]
+59eb80756f8ad97e41a9b14be669a76a44435bda 59eb80756f8ad97e41a9b14be669a76a44435bda dchan3 <dchan3@hawaii.edu> 1536259678 -1000	delete_branch: temp-chart-workaround [32a7d8e74c23b20148724147f03ad1c5fbcd4cff]
+59eb80756f8ad97e41a9b14be669a76a44435bda 54148f9b43f17382da5187635e9da87403d121b5 dchan3 <dchan3@hawaii.edu> 1537331920 -1000	commit: Refactor to reflect Spinitron API changes
+54148f9b43f17382da5187635e9da87403d121b5 ccb7bd1881bb688f3fbf5d4c858b54190317d306 dchan3 <dchan3@hawaii.edu> 1538976642 -1000	commit: Fix charts issues
+ccb7bd1881bb688f3fbf5d4c858b54190317d306 ccb7bd1881bb688f3fbf5d4c858b54190317d306 dchan3 <dchan3@hawaii.edu> 1539028909 -1000	checkout: moving from devel to react-port
+ccb7bd1881bb688f3fbf5d4c858b54190317d306 ccb7bd1881bb688f3fbf5d4c858b54190317d306 dchan3 <dchan3@hawaii.edu> 1539341382 -1000	checkout: moving from react-port to devel
+ccb7bd1881bb688f3fbf5d4c858b54190317d306 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1539341398 -1000	commit: Update to Meteor 1.8
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1539341453 -1000	delete_branch: react-port [ccb7bd1881bb688f3fbf5d4c858b54190317d306]
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1539995313 -1000	delete_branch: spinitron-upgrade [08fb21a35351f2e7ef92e3af923e3fddb310be70]
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1539995320 -1000	delete_branch: rss [ae723cd1f09a87e138f51fec25bbf6ab3db2170b]
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1540186078 -1000	checkout: moving from devel to react-refactor
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1540325510 -1000	checkout: moving from react-refactor to devel
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 f5613f57c99fda7fb1b7b37bfca0d17078b9074d dchan3 <dchan3@hawaii.edu> 1540327823 -1000	Fast forward branch devel to branch devel
+f5613f57c99fda7fb1b7b37bfca0d17078b9074d fd7e48a0db672c1e5bccd80326f738a8c7e1e490 dchan3 <dchan3@hawaii.edu> 1540335959 -1000	checkout: moving from devel to react-refactor
+fd7e48a0db672c1e5bccd80326f738a8c7e1e490 f5613f57c99fda7fb1b7b37bfca0d17078b9074d dchan3 <dchan3@hawaii.edu> 1540335971 -1000	merge devel: Fast-forward
+f5613f57c99fda7fb1b7b37bfca0d17078b9074d f5613f57c99fda7fb1b7b37bfca0d17078b9074d dchan3 <dchan3@hawaii.edu> 1540522440 -1000	checkout: moving from react-refactor to devel
+f5613f57c99fda7fb1b7b37bfca0d17078b9074d 5883072342007ab2f40bc2e8047273dd9f7a1681 dchan3 <dchan3@hawaii.edu> 1540522494 -1000	commit: Swap Alumni page photo
+5883072342007ab2f40bc2e8047273dd9f7a1681 9d35be1e4d4daa75fe0b76bb46c9dc50b98af94a dchan3 <dchan3@hawaii.edu> 1540523355 -1000	commit: Add slug to post by username subscription
+9d35be1e4d4daa75fe0b76bb46c9dc50b98af94a f5613f57c99fda7fb1b7b37bfca0d17078b9074d dchan3 <dchan3@hawaii.edu> 1540523659 -1000	checkout: moving from devel to react-refactor
+f5613f57c99fda7fb1b7b37bfca0d17078b9074d 9d35be1e4d4daa75fe0b76bb46c9dc50b98af94a dchan3 <dchan3@hawaii.edu> 1540523680 -1000	merge devel: Fast-forward
+9d35be1e4d4daa75fe0b76bb46c9dc50b98af94a 9d35be1e4d4daa75fe0b76bb46c9dc50b98af94a dchan3 <dchan3@hawaii.edu> 1540526534 -1000	delete_branch: update-1.7 [f51e7efe4744e0c2ddc12d2ae0a1f7c4fe5cbfb8]
